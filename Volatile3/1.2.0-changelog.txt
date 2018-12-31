@@ -1,0 +1,82 @@
+Added: AbyssalCraft : 1.9.4-pre-4
+Added: Brandon's Core : 2.2.1
+Added: CoFH Core : 4.2.6
+Added: ConnectedTexturesMod : MC1.11.2-0.2.0.8
+Added: Draconic Evolution : 2.2.1
+Added: Immersive Engineering : 0.11-63
+Added: Immersive Petroleum : 1.0.7
+Added: Malisis Core : 1.11.2-5.2.2
+Added: Malisis Doors : 1.11.2-6.1.2
+Added: McJtyLib : 1.1x-2.4.3-SNAPSHOT
+Added: Meltery : 1.0.0
+Added: Missing Pieces : 4.3.0
+Added: Quark : r1.2-93
+Added: Redstone Arsenal : 2.2.5
+Added: Thermal Dynamics : 2.2.5
+Added: Thermal Expansion : 5.2.5
+Added: Thermal Foundation : 2.2.4
+Updated: null : 1.2.1 - 1.2.2
+Updated: Actually Additions : 1.11.2-r109 - 1.11.2-r110
+Updated: Advanced Rocketry : 1.2.0f - 1.2.2
+Updated: AppleSkin : 1.0.6 - 1.0.7
+Updated: ArmorPlus : 1.11.2-10.4.0.1 - 1.11.2-10.7.0.1
+Updated: Astral Sorcery : 1.4.1 - 1.4.5
+Updated: BetterFps : 1.4.4.jar - 1.4.5.jar
+Updated: BiblioCraft : 2.3.1 - 2.3.2
+Updated: Biomes O' Plenty : 6.1.0.2238 - 6.2.0.2267
+Updated: Blood Magic : 1.11-2.1.10-79 - 1.11-2.1.11-80
+Updated: Botania : r1.9-343 - r1.9-344
+Updated: Chisel 2 : MC1.11.2-0.0.10.14 - MC1.11.2-0.0.13.20
+Updated: Chisels and Bits : 13.10 - 13.11
+Updated: CodeChickenLib : 2.6.0.254 - 3.0.0.284
+Updated: Colossal Chests : 1.6.1 - 1.6.2
+Updated: Computality : 1.11.2-1.82pr5 - 1.11.2-1.82
+Updated: Cooking for Blockheads : 5.3.20 - 5.3.21
+Updated: Cyclic : 1.5.0 - 1.5.8
+Updated: Cyclops Core : 0.10.4 - 0.10.6
+Updated: ElecCore | DimensionAPI : 1.7.421 - 1.7.425
+Updated: Embers : 0.214 - 0.220
+Updated: Ender Utilities : 0.7.0 - 0.7.1
+Updated: EnderStorage : 2.3.0.112 - 2.3.1.116
+Updated: Extreme Reactors : 1.11.2-0.4.5.29 - 1.11.2-0.4.5.30
+Updated: Forestry : 5.3.4.99 - 5.3.4.130
+Updated: GraveStone Mod : 1.7.2 - 1.7.4
+Updated: Hammer Core : 1.7.9 - 1.8.9
+Updated: IndustrialCraft 2 : 2.7.59-ex111 - 2.7.74-ex111
+Updated: Inventory Tweaks : 1.62+beta.89.be6ffe4 - 1.62+release.90.40cf8fc
+Updated: IronChests : 1.11.2-7.0.19.803 - 1.11.2-7.0.25.815
+Updated: JourneyMap : 1.11.2-5.4.6 - 1.11.2-5.4.7
+Updated: Just Enough Items (JEI) : 4.4.0.283 - 4.5.0.291
+Updated: Just Enough Resources (JER) : 0.6.4.6 - 0.6.6.12
+Updated: LibrarianLib : 3.1.4 - 3.1.5
+Updated: libVulpes : 0.2.3b. - 0.2.5.
+Updated: Mekanism : 9.3.1 - 9.3.2
+Updated: Mystical Agradditions : 1.0.2 - 1.1.0
+Updated: Mystical Agriculture : 1.5.4 - 1.5.7
+Updated: Notes : 1.1.0 - 1.1.1
+Updated: Quantum Storage : 4.2.2 - 4.2.3
+Updated: Random Things : 3.8.1 - 4.0
+Updated: ReAuth : 3.4.1 - 3.5.0
+Updated: Refined Relocation : @VERSION@ - 3.1.14
+Updated: Refined Storage : 1.4.10 - 1.4.18
+Updated: RFTools : 6.01 - 6.10
+Updated: Roots : 0.018 - 0.025
+Updated: Sign Post : 1.05.2 - 1.05.5
+Updated: Silent Lib : 2.1.4 - 2.2.6
+Updated: Silent's Gems : 2.3.13 - 2.4.2
+Updated: Silent's Gems: Extra Parts : 1.2.5 - 1.3.1
+Updated: Solar Flux Reborn : 2.15r - 2.21r
+Updated: Storage Drawers : 1.11.2-4.2.7 - 1.11.2-4.2.10
+Updated: SubLib : 1.2.0.0 - 1.2.0.1
+Updated: Tech Reborn : 2.3.3.174 - 2.3.3.181
+Updated: TelePads : 1.11.2-1.0.2.0 - 1.11.2-1.0.2.1
+Updated: TESLA : 1.3.0.51 - 1.3.0.52
+Updated: Tinker I/O : alpha 2.5.1c - release 2.5.2c
+Updated: Tiny Progressions : 2.2.0-Hotfix - 2.2.3
+Updated: TOP Addons : 1.11.2-0.13.0 - 1.11.2-0.15.0
+Removed: Alchemistry
+Removed: AppleCore
+Removed: Bookshelf
+Removed: Buildcraft
+Removed: Dark Utilities
+Removed: More Overlays

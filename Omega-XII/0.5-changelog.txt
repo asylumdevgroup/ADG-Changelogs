@@ -1,0 +1,64 @@
+VERSION 0.5 (THE FIRST RESET)
+
+World Resets are Mandatory for this update. Many Mods have been removed due to incompatibility with the new Forge Registry System.
+
+Now on Forge 2385
+
+Added: AppleSkin : 1.0.7
+Added: BetterBedrockGen : 6.0.1
+Added: BiblioCraft : 2.4.2
+Added: Clay WorldGen : 1.1.0-1.12
+Added: Extreme Reactors : 1.12-0.4.5.33
+Added: IndustrialCraft 2 : 2.8.4-ex112
+Added: IronChests : 1.12-7.0.31.818
+Added: McJtyLib : 1.12-2.4.0-SNAPSHOT
+Added: Mystical Agriculture : 1.6.0
+Added: Not Enough Wands : 1.5.8
+Added: Quantum Storage : 4.3.4
+Added: Random Things : 4.0.1
+Added: Reborn Core : 3.2.0.74
+Added: RFTools : 6.04
+Added: Tech Reborn : 2.6.0.119
+Added: XNet : 1.3.4
+Added: Zero CORE : 1.12-0.1.0.9
+Updated: Aroma1997's Dimensional World : 1.3.0.0.b34 - 1.3.0.0.b37
+Updated: Aroma1997Core : 1.3.0.0.b90 - 1.3.0.0.b94
+Updated: AromaBackup : 2.1.0.0.b69 - 2.1.0.0.b71
+Updated: Biomes O' Plenty : 7.0.0.2272 - 7.0.0.2286
+Updated: Chameleon : 1.12-4.0.0 - 1.12-4.0.2
+Updated: CTD Core : 1.1.2 - 1.1.3
+Updated: Enderfuge : 1.1.5 - 1.1.7
+Updated: GraveStone Mod : 1.8.1 - 1.8.3
+Updated: JourneyMap : 1.12-5.4.7b2 - 1.12-5.4.7
+Updated: Just Enough Items (JEI) : 4.6.0.63 - 4.7.0.68
+Updated: Lapis Stays in the Enchanting Table : 1.1.2-beta1 - 1.1.2-beta2
+Updated: MCMultiPart : 2.1.0 - 2.2.2
+Updated: OpenBlocks Elevator : 1.3.2 - 1.3.4
+Updated: Plants : 1.1.0 - 1.2.0
+Updated: Refined Storage : 1.5 - 1.5.5
+Updated: Simple Sponge : 3.1.2 - 3.3
+Updated: Soul Shards: The Old Ways : 1.12-2.7.1-50 - 1.12-2.7.2-51
+Updated: Storage Drawers : 1.12-5.0.4 - 1.12-5.1.3
+Updated: TESLA : 2.0.55 - 1.0.61
+Updated: The Lost Cities : 0.0.7beta - 0.0.12beta
+Updated: The One Probe : 1.4.8 - 1.4.11
+Updated: TorchMaster : 1.4.1.5 - 1.4.3.8
+Updated: Traverse : 1.12-1.1.7-11 - 1.2.1
+Updated: Xtones : 1.12-1.0.3-5 - 1.12-1.0.4-7
+Removed: Akashic Tome
+Removed: ArmorPlus
+Removed: AutoRegLib
+Removed: Better Builder's Wands
+Removed: Chest Transporter
+Removed: Cyclic
+Removed: FTB Utilities
+Removed: FTBLib
+Removed: Harvest
+Removed: KleeSlabs
+Removed: Mod Name Tooltip
+Removed: Morph-o-Tool
+Removed: Quark
+Removed: Shadowfacts' Forgelin
+Removed: Simple Grinder
+Removed: Storage Drawers: Misc Pack
+Removed: TheDragonLib

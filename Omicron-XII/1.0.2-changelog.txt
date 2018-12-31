@@ -1,0 +1,10 @@
+ADG Omicron XII v1.0.2 Changelog
+
+Updated:
+
+AE2 Wireless Terminal Library
+Industrial Foregoing
+Integration Foregoing
+Quark
+NuclearCraft
+Wireless Crafting Terminal

@@ -1,0 +1,35 @@
+Added: Akashic Tome : 1.2-8
+Added: Better Builder's Wands : 0.11.1
+Added: Chest Transporter : 2.8.1
+Added: Cyclic : 1.5.6
+Added: MCMultiPart : 2.1.0
+Added: More Overlays : 1.12
+Added: Morph-o-Tool : 1.2-14
+Added: OpenBlocks Elevator : 1.3.2
+Added: SwingThroughGrass : 1.12-1.2.0
+Added: The Lost Cities : 0.0.7beta
+Updated: ArmorPlus : 1.12-11.0.0.1-alpha - 1.12-11.0.1.2-alpha
+Updated: Aroma1997Core : 1.3.0.0.b89 - 1.3.0.0.b90
+Updated: AutoRegLib : 1.2-6 - 1.2-8
+Updated: Biomes O' Plenty : 7.0.0.2263 - 7.0.0.2272
+Updated: CTD Core : 1.1.1 - 1.1.2
+Updated: Enderfuge : 1.1.4 - 1.1.5
+Updated: GraveStone Mod : 1.8.0 - 1.8.1
+Updated: JourneyMap : 1.12-5.4.6b1 - 1.12-5.4.7b2
+Updated: Just Enough Items (JEI) : 4.6.0.61 - 4.6.0.63
+Updated: Lapis Stays in the Enchanting Table : 1.1.1 - 1.1.2-beta1
+Updated: Plants : 1.0.1 - 1.1.0
+Updated: Quark : r1.2-94 - r1.2-96
+Updated: Simple Grinder : 4.010.A112 - 4.015.A112
+Updated: Simple Sponge : 3.1 - 3.1.2
+Updated: Soul Shards: The Old Ways : 1.12-2.7.0-49 - 1.12-2.7.1-50
+Updated: Storage Drawers : 1.12-5.0.2 - 1.12-5.0.4
+Updated: Storage Drawers: Misc Pack : 1.12-3.0.0 - 1.12-3.0.1
+Updated: The One Probe : 1.4.7 - 1.4.8
+Updated: TorchMaster : 1.4.0.1 - 1.4.1.5
+Updated: Traverse : 1.12-1.1.2-2 - 1.12-1.1.7-11
+Updated: Xtones : 1.12-1.0.2-4 - 1.12-1.0.3-5
+Removed: Clay WorldGen
+Removed: Computality (will be readded once it works)
+
+Now on Forge 2334

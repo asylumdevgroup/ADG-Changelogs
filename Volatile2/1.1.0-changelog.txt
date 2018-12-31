@@ -1,0 +1,18 @@
+Added: Advanced Generators : 0.9.20.1
+Added: Aroma1997Core : 1.0.6.0.b65
+Added: AromaBackup : 1.0.1.0.b33
+Added: Bdlib : 1.11.0.1
+Added: Chisels and Bits : 10.4
+Added: EJML Core : core-0.26.jar
+Added: GraveStone Mod : 1.3.0
+Added: IndustrialCraft 2 : 2.5.6-ex19
+Added: MoreOverlays : 1.3
+Added: Mouse Tweaks : 2.6.3
+Added: Psi : beta-33
+Added: Quark : beta-21
+Added: Soul Shards: The Old Ways : 1.9.4-2.4.0-28
+Added: The One Probe : 1.0.5
+Added: Tinkers' Addons : 1.0.1
+Added: Torcherino : 1.9.4-2.4.0
+Updated: Forestry : 5.0.8.141 - 5.0.9.142
+Updated: Just Enough Resources (JER) : 0.4.5.31 - 0.4.5.32

@@ -1,0 +1,84 @@
+Added: Aroma1997Core : 1.1.0.3
+Added: Aroma1997s Dimensional World : 1.2.0.1
+Added: AutoRegLib : 1.0-2
+Added: Brandon's Core : 2.1.0
+Added: Chisel & Bytes : 0.4
+Now on Minecraft 1.10.2, Forge 2076
+Added: CodeChickenLib : 1.10.2-2.2.3.73-universal.jar
+Added: Ding : MC1.9.0v2
+Added: Draconic Evolution : 2.0.0
+Added: Gendustry : 1.6.4.17
+Added: Guide-API : 1.10.2-2.0.2-45
+Added: HelpFixer : 1.4.15
+Added: Immersive Engineering : 0.10-38
+Added: Malisis Core : 1.9.4-4.1.1
+Added: Malisis Doors : 1.9.4-5.0.4
+Added: MCMultiPart : 1.2.1
+Added: Mod Tweaker : 2.0.1
+Added: Ore Dictionary Converter : 1.9.1
+Added: TESLA : 1.2.1.49
+Updated: Advanced Generators : 0.9.20.2 - 0.9.20.12
+Updated: AppleCore : 1.3.5 - 2.0.0
+Updated: Base Metals : 2.3.2 - 2.4.0
+Updated: Bdlib : 1.12.0.2 - 1.12.2.10
+Updated: Better Title Screen : 1.2d - 1.2e
+Updated: Biomes O' Plenty : 4.1.0.2033 - 5.0.0.2081
+Updated: Blood Magic : 1.9.4-2.0.2-48 - 1.9.4-2.0.4-58
+Updated: Bookshelf : 3.1.0 - 3.2.2
+Updated: Botania : r1.8-311 - r1.8-320
+Updated: Chameleon : 1.9.4-2.1.5 - 1.10-2.1.7
+Updated: Chisel 2 : MC1.9.4-0.0.5.29.jar - MC1.9.4-0.0.6.33
+Updated: Chisels and Bits : 10.11 - 12.1
+Updated: Cooking for Blockheads : 3.1.26 - 4.2.14
+Updated: Crafting Tweaks : 5.0.6 - 6.1.12
+Updated: Deep Resonance : 1.2.0beta35 - 1.2.2
+Updated: Dr. Cyano's OreSpawn  : 1.0.3 - 1.1.0
+Updated: ElecCore | DimensionAPI : 1.5.292 - 1.5.311
+Updated: Electric Advantage : 2.1.0 - 2.2.0
+Updated: Enchiridion : 3.1.5 - 3.1.7
+Updated: Ender Zoo : 1.9.4-1.2.2.40 - 1.10-1.2.3.43
+Updated: EnderCore : 1.10-0.4.0.31-alpha - 1.10.2-0.4.1.53-beta
+Updated: EnderIO : 1.10-3.0.0.51_alpha - 1.10.2-3.0.1.101_beta
+Updated: EXCore : 1.5.3 - 1.6.2
+Updated: Experience Rings : 1.1.0 - 1.2.0
+Updated: Forestry : 5.1.7.188 - 5.2.9.242
+Updated: Forever Enough Items : 1.0.14 - 1.0.15
+Updated: Graves : 1.10-b4-universal - 1.10.2-b28-universal
+Updated: IndustrialCraft 2 : 2.6.1-ex110 - 2.6.37-ex110
+Updated: Inventory Tweaks : 1.61-beta-57-c028bbc - 1.61-58-a1fd884
+Updated: IronChests : 1.10-7.0.2.790 - 1.10.2-7.0.9.796
+Updated: JourneyMap : 1.9.4-5.2.3 - 1.10.2-5.2.4
+Updated: Just Enough Items (JEI) : 3.7.1.219 - 3.9.0.246
+Updated: Just Enough Resources (JER) : 0.4.6.39 - 0.4.9.50
+Updated: Light Level Overlay : 1.0.7-mc1.10 - 1.1.0-mc[1.9-1.10.2]
+Updated: Mantle : 1.10-0.10.3.jenkins156 - 1.10.2-0.10.4.jenkins163
+Updated: McJtyLib : 1.10-1.9.3-SNAPSHOT - 1.10-1.9.9-SNAPSHOT
+Updated: MineTweaker : 3.0.9 - 3.0.11
+Updated: ModLister : 1.10-2.1.6 - 1.10.2-2.1.8
+Updated: More Overlays : 1.4 - 1.7
+Updated: Morpheus : 1.10-3.1.6 - 1.10.2-3.1.7
+Updated: Mouse Tweaks : 2.6.3 - 2.6.4
+Updated: NeoTech : 3.1.0 - 3.2.0
+Updated: Not Enough Wands : 1.3.5 - 1.3.6
+Updated: Power Advantage : 2.2.1 - 2.3.0
+Updated: Progressive Automation : 1.6.46 - 1.6.51
+Updated: ProjectE : 1.9.4-PE1.0.4B - 1.10.2-PE1.0.6B
+Updated: Psi : r1.0-36 - r1.0-39
+Updated: Quark : beta-35 - r1.0-55
+Updated: Random Things : 3.7.4 - 3.7.5
+Updated: Realistic Terrain Generation : 1.9.4-2.0.0-alpha.5 - 1.10.2
+Updated: Reborn Core : 2.5.4.47 - 2.6.2.27
+Updated: Refined Storage : 0.8.1 - 0.9.4
+Updated: Reliquary : 1.10-1.3.2.409 - 1.10.2-1.3.3.521
+Updated: RFTools : 4.67 - 5.21
+Updated: Soul Shards: The Old Ways : 1.10-2.5.0-34 - 1.10.2-2.6.3-43
+Updated: Steam Advantage : 2.1.0 - 2.2.0
+Updated: Storage Drawers : 1.9.4-3.1.10 - 1.10.2-3.2.7
+Updated: Tech Reborn : 1.3.2.120 - 1.4.0.45
+Updated: The One Probe : 1.0.12 - 1.1.0
+Updated: Tinker I/O : alpha 2.2.0c - beta 2.3.5
+Updated: Tinker's Construct : 1.10-2.3.3a.jenkins271 - 1.10.2-2.4.0.jenkins325
+Updated: Tinkers' Addons : 1.0.2 - 1.0.3
+Updated: Waila Harvestability : 1.1.7 - 1.1.8
+Updated: Wawla : 2.3.0.193 - 2.3.0.202
+Removed: Help Fixer

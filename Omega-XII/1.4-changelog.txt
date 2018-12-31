@@ -1,0 +1,10 @@
+Added: Applied Energistics : rv5-alpha-3
+Added: Morpheus : 1.12-3.3.2
+Added: Teslafied : 1.0.0
+Updated: Chisel 2 : MC1.12-0.0.13.12 - MC1.12-0.0.13.13
+Updated: Forestry : 5.4.3.129 - 5.4.3.131
+Updated: Industrial Wires : 1.5-14 - 1.5-15
+Updated: Inventory Tweaks : 1.63+dev.105.7d9e129 - 1.63+beta.106.6841692
+Updated: jglrxavpok's Uncrafting Table : 1.8-beta3 - 1.8-beta4
+Updated: Psi : r1.1-50 - r1.1-51
+Updated: Random Things : 4.0.2 - 4.0.3

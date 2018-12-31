@@ -1,0 +1,45 @@
+Added: BiblioWoods Biomes O'Plenty Edition : 2.0
+Added: BuildCraft Lib : 7.99.4
+Added: CraftingTableIV : 1.4.9999.custom
+Added: Cranesandconstruction : 1.6
+Added: Dimensional Ores : 1.11.2-0.0.4
+Added: LibrarianLib : 3.1.4
+Added: Literal Ascension : 1.11.2-1.0.2.2
+Added: LLibrary : 1.7.6
+Added: Mekanism : 9.3.1
+Added: MekanismGenerators : 9.3.1
+Added: MekanismTools : 9.3.1
+Added: MmmMmmMmmMmm : 1.11
+Added: Platforms : 1.3.4
+Added: Shetiphian Core : 3.4.5
+Added: Sign Post : 1.05.2
+Added: SubLib : 1.2.0.0
+Added: Tech Expansion : 1.5
+Added: TelePads : 1.11.2-1.0.2.0
+Added: Tinker I/O : alpha 2.5.1c
+Updated: Actually Additions : 1.11.2-r108 - 1.11.2-r109
+Updated: Baubles : 1.4.4 - 1.4.5
+Updated: BiblioCraft : 2.3.0 - 2.3.1
+Updated: Biomes O' Plenty : 6.1.0.2227 - 6.1.0.2238
+Updated: Colossal Chests : 1.5.2 - 1.6.1
+Updated: Computality : 1.11.2-1.82pr4 - 1.11.2-1.82pr5
+Updated: Cyclic : 1.4.7 - 1.5.0
+Updated: Cyclops Core : 0.10.3 - 0.10.4
+Updated: ElecCore | DimensionAPI : 1.7.420 - 1.7.421
+Updated: Embers : 0.212 - 0.214
+Updated: Ender Zoo : 1.11.2-1.3.0.46 - 1.11.2-1.3.0.47
+Updated: FoamFix : 0.6.3-anarchy.jar - 0.6.3-law.jar
+Updated: Hammer Core : 1.6.7 - 1.7.9
+Updated: IndustrialCraft 2 : 2.7.33-ex111 - 2.7.59-ex111
+Updated: Just Enough Items (JEI) : 4.3.6.280 - 4.4.0.283
+Updated: NotEnoughIDs : 1.5.4 - 1.5.4.1
+Updated: OpenBlocks Elevator : 1.3.1 - 1.3.2
+Updated: Reborn Core : 2.16.0.106 - 2.16.1.115
+Updated: Refined Storage : 1.4.9 - 1.4.10
+Updated: Roots : 0.017 - 0.018
+Updated: Silent Lib : 2.1.3 - 2.1.4
+Updated: Silent's Gems : 2.3.12 - 2.3.13
+Updated: Storage Drawers : 1.11.2-4.2.6 - 1.11.2-4.2.7
+Updated: Tech Reborn : 2.3.0.152 - 2.3.3.174
+Updated: Tinker's Construct : 1.11.2-2.7.0.19 - 1.11.2-2.7.0.26
+Removed: Quark

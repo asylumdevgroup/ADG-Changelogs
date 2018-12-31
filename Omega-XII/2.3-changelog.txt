@@ -1,0 +1,23 @@
+ADG Omega XII v2.3 Changelog
+
+Updated:
+
+Chisels and Bits
+Cyclic
+Forestry
+FTB Utilities
+FTBLib
+Hammer Core
+IndustrialCraft 2
+Industrial Wires
+JAOPCA
+JourneyMap
+JEI
+PlusTiC
+Random Things
+Refined Storage
+Solar Flux Reborn
+TOP Addons
+YABBA
+
+Replaced Embers with Embers Rekindled

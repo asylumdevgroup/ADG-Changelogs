@@ -1,0 +1,35 @@
+ADG Omega XII v2.5 Changelog
+
+Added:
+
+UniDict
+WanionLib
+Guide-API
+Blood Magic
+Prodigy Tech
+Steam World
+Building Gadgets
+VanillaFix
+BeeBetterAtBees
+NetherPortalFix
+JEI Bees
+
+
+Removed:
+
+Terraqueous
+Platforms
+ShetiPhianCore
+LittleTiles
+CreativeCore
+
+Updated:
+
+Actually Additions
+Biomes O' Plenty
+Cucumber
+FTBLib
+Immersive Engineering
+JAOPCA
+JEI
+Quark

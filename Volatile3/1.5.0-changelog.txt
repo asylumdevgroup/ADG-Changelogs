@@ -1,0 +1,21 @@
+Updated: McJtyLib : 2.4.5 - 2.5.3
+Updated: AbyssalCraft : 1.9.4.1 - 1.9.4.5
+Updated: Biomes O' Plenty : 6.2.0.2267 - 6.2.0.2319
+Updated: Chisel 2 : MC1.11.2-0.0.14.25 - MC1.11.2-0.1.1.31
+Updated: Chisels and Bits : 13.14 - 13.16
+Updated: CodeChickenLib : 3.0.0.298 - 3.0.0.328
+Updated: CompatLayer : 1.11.2-0.2.9 - 0.3.1
+Updated: Deep Resonance : 1.4.8 - 1.4.9
+Updated: Forestry : 5.3.4.202 - 5.3.4.257
+Updated: NuclearCraft : 2.5a - 2.7b
+Updated: OpenComputers : 1.7.0.51 - 1.7.2.97
+Updated: Platforms : 1.3.4 - 1.3.5b
+Updated: Refined Relocation : 3.1.14 - 3.1.15
+Updated: RFTools : 7.13 - 7.16
+Updated: RFTools Control : 1.6.8 - 1.7.0
+Updated: Shadowfacts' Forgelin : 1.5.1 - 1.6.0
+Updated: Shetiphian Core : 3.4.8 - 3.4.9
+Updated: SignPost : 1.05.5 - 1.07.2
+Updated: XNet : 1.4.1 - 1.5.0
+Removed: Immersive Engineering
+Removed: Immersive Petroleum

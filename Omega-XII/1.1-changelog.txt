@@ -1,0 +1,40 @@
+Added: Astral Sorcery : 1.5.8
+Added: Bed Bugs : 1.12-1.0.1
+Added: Better Builder's Wands : 0.11.1
+Added: Bookshelf : 2.0.412
+Added: CodeChickenLib : 3.1.0.278
+Added: CoFH Core : 4.3.0
+Added: CoFH World : 1.0.0
+Added: Cyclic : 1.5.9
+Added: Dark Utilities : 1.6.158
+Added: Exchangers : 1.12-2.1
+Added: FoamFix : @VERSION@
+Added: Forestry : 5.4.3.128
+Added: Funky Locomotion : 1.0
+Added: jglrxavpok's Uncrafting Table : 1.8-beta3
+Added: Mystical Agradditions : 1.2.0
+Added: Open Glider : 1.12-1.0.1
+Added: Platforms : 1.4.0.1
+Added: Psi : r1.1-50
+Added: Redstone Arsenal : 2.3.0
+Added: Redstone Flux : 2.0.0
+Added: Shetiphian Core : 3.5.0.1
+Added: Thermal Dynamics : 2.3.0
+Added: Thermal Expansion : 5.3.0
+Added: Thermal Foundation : 2.3.0
+Updated: AutoRegLib : 1.3-11 - 1.3-13
+Updated: Chameleon : 1.12-4.0.2 - 1.12-4.1.0
+Updated: Just Enough Items (JEI) : 4.7.1.69 - 4.7.1.71
+Updated: McJtyLib : 1.12-2.4.2-SNAPSHOT - 1.12-2.4.3-SNAPSHOT
+Updated: Mystical Agriculture : 1.6.0 - 1.6.1
+Updated: Quark : r1.2-98 - r1.2-99
+Updated: ReAuth : 3.5.0 - 3.5.1
+Updated: Reborn Core : 3.2.2.80 - 3.2.3.83
+Updated: Refined Relocation : 4.1.2 - 4.1.4
+Updated: Refined Storage : 1.5.6 - 1.5.7
+Updated: Steve's Carts 2 : 2.4.3.22 - 2.4.4.25
+Updated: Storage Drawers : 1.12-5.1.3 - 1.12-5.2.0
+Updated: Tech Reborn : 2.6.2.139 - 2.6.6.151
+Updated: The Lost Cities : 0.0.13beta - 0.0.15beta
+Updated: TorchMaster : 1.4.3.8 - 1.5.0.31
+Removed: Clay WorldGen

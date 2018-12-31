@@ -1,0 +1,11 @@
+Added: Chameleon : 1.12-4.0.0
+Added: Computality : 1.12-1.82pr5
+Added: CTD Core : 1.1.0
+Added: Example Mod : 1.0.0
+Added: FTB Utilities : 0.0.0
+Added: FTBLib : 0.0.0
+Added: Nether Portal Fix : 5.3.1.jar
+Added: Storage Drawers : 1.12-5.0.0
+Added: Storage Drawers: Misc Pack : 1.12-3.0.0
+Updated: Biomes O' Plenty : 7.0.0.2257 - 7.0.0.2263
+Updated: Enderfuge : 1.1.2 - 1.1.4

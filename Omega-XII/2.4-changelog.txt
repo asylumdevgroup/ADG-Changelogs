@@ -1,0 +1,29 @@
+ADG Omega XII v2.4 Changelog
+
+Updated:
+
+AutoRegLib
+Biomes O' Plenty
+Botania
+Brandon's Core
+Calculator
+CTM
+Cucumber
+Cyclic
+Embers Rekindled
+FTB Utilities
+FTBLib
+HammerCore
+Industrial Wires
+JEI
+Mystical Agradditions
+Mystical Agriculture
+Ore Excavation
+PlusTiC
+Quark
+Refined Storage
+RFTools
+SonarCore
+Storage Drawers
+Terraqueous
+TOP Addons

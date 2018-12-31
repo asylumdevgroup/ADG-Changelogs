@@ -1,0 +1,25 @@
+Updated: ArmorPlus : 1.11.2-10.7.0.1 - 1.11.2-10.7.2.3
+Updated: Botania : r1.9-344 - r1.9-345
+Updated: Chisel 2 : MC1.11.2-0.0.13.20 - MC1.11.2-0.0.13.22
+Updated: Chisels and Bits : 13.11 - 13.12
+Updated: CoFH Core : 4.2.6 - 4.2.7
+Updated: Cyclic : 1.5.8 - 1.5.9
+Updated: Ender Utilities : 0.7.1 - 0.7.2
+Updated: FoamFix : 0.6.3-lawful - 0.7.1-anarchy
+Updated: Forestry : 5.3.4.130 - 5.3.4.135
+Updated: Gendustry : 1.6.5.7 - 1.6.5.9
+Updated: Just Enough Items (JEI) : 4.5.0.291 - 4.5.0.294
+Updated: Mystical Agriculture : 1.5.7 - 1.5.8
+Updated: NuclearCraft : 2.2d - 2.3a
+Updated: Redstone Arsenal : 2.2.5 - 2.2.6
+Updated: Refined Storage : 1.4.18 - 1.4.20
+Updated: Reliquary : 1.11.2-1.3.3.653 - 1.11.2-1.3.4.678
+Updated: RFTools : 6.10 - 6.12
+Updated: Shadowfacts' Forgelin : 1.4.2 - 1.5.1
+Updated: The One Probe : 1.4.7 - 1.4.14
+Updated: Thermal Dynamics : 2.2.5 - 2.2.6
+Updated: Thermal Expansion : 5.2.5 - 5.2.6
+Updated: Thermal Foundation : 2.2.4 - 2.2.5
+Updated: Tinker's Construct : 1.11.2-2.7.0.26 - 1.11.2-2.7.1.34
+Updated: Translocator : 2.2.0.59 - 2.3.0.63
+Updated: Woot : 1.11.2-0.2.0 - 1.11.2-0.3.0

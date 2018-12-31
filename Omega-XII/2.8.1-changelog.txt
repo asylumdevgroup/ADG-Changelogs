@@ -1,0 +1,10 @@
+ADG Omega XII v2.8.1 Changelog
+
+Updated:
+
+AE2 Wireless Terminal Library
+Biomes O' Plenty
+Building Gadgets
+Forestry
+NuclearCraft
+Quark

@@ -1,0 +1,17 @@
+Added: EXCore : 1.5.3
+Added: Forever Enough Items : 1.0.10
+Updated: AutoPackager : 1.6.2 - 1.6.3
+Updated: Enchiridion : 3.1.3 - 3.1.4
+Updated: EnderIO : 1.9.4-3.0.0.37_alpha - 1.9.4-3.0.0.38_alpha
+Updated: Forestry : 5.0.9.142 - 5.0.10.147
+Updated: IronChests : 1.9.4-6.0.141.782 - 1.9.4-6.0.142.784
+Updated: JourneyMap : 1.9.4-5.2.0 - 1.9.4-5.2.1
+Updated: Just Enough Items (JEI) : 3.4.3.207 - 3.6.2.211
+Updated: Just Enough Resources (JER) : 0.4.5.32 - 0.4.6.35
+Updated: ProjectE : 1.9.4-PE1.0.0B - 1.9.4-PE1.0.2B
+Updated: Quark : beta-21 - beta-23
+Updated: Reborn Core : 2.5.1.35 - 2.5.3.44
+Updated: Soul Shards: The Old Ways : 1.9.4-2.4.0-28 - 1.9.4-2.4.1-29
+Updated: Tech Reborn : 1.3.1.100 - 1.3.2.120
+Updated: The One Probe : 1.0.5 - 1.0.6
+Updated: WAILA Features : 0.3.1.10 - 0.3.1.11

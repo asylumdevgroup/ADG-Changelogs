@@ -1,0 +1,36 @@
+Added: Actually Additions : 1.12-r113
+Added: Akashic Tome : 1.2-9
+Added: Alchemistry : 0.6.1
+Added: AutoRegLib : 1.3-11
+Added: Blur : 1.0.3-13
+Added: Chest Transporter : 2.8.3
+Added: Embers : 0.219
+Added: Example Mod : 1.0.0
+Added: Flat Colored Blocks : mc1.12-6.2
+Added: Harvest : 1.12-1.2.3-15
+Added: Inventory Tweaks : 1.63+dev.98.684f99a
+Added: Mod Name Tooltip : 1.8.1
+Added: Morph-o-Tool : 1.2-15
+Added: Notes : 1.1.1
+Added: Quark : r1.2-98
+Added: Refined Relocation : 4.1.2
+Added: Roots : 0.024
+Added: Shadowfacts' Forgelin : 1.4.2
+Added: Simple Grinder : 4.015.A112
+Added: Steve's Carts 2 : 2.4.3.22
+Added: Storage Drawers: Misc Pack : 1.12-3.1.0
+Updated: Biomes O' Plenty : 7.0.0.2286 - 7.0.0.2288
+Updated: Example Mod : 1.0.0 - 1.2.0
+Updated: GraveStone Mod : 1.8.3 - 1.8.4
+Updated: JourneyMap : 1.12-5.4.7 - 1.12-5.4.9
+Updated: Just Enough Items (JEI) : 4.7.0.68 - 4.7.1.69
+Updated: Just Enough Resources (JER) : 0.7.0.10 - 0.8.1.14
+Updated: McJtyLib : 1.12-2.4.0-SNAPSHOT - 1.12-2.4.2-SNAPSHOT
+Updated: Reborn Core : 3.2.0.74 - 3.2.2.80
+Updated: Refined Storage : 1.5.5 - 1.5.6
+Updated: RFTools : 6.04 - 6.10
+Updated: Soul Shards: The Old Ways : 1.12-2.7.2-51 - 1.12-2.7.3-52
+Updated: Tech Reborn : 2.6.0.119 - 2.6.2.139
+Updated: The Lost Cities : 0.0.12beta - 0.0.13beta
+Updated: XNet : 1.3.4 - 1.3.4.3
+Now on The Recommended Build of Forge

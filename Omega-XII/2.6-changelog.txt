@@ -1,0 +1,29 @@
+NOTICE: Please Remove all Elevators from your world, as next update removes the Standalone Elevator mod and replaces it with the full OpenBlocks mod.
+
+ADG Omega XII v2.6 Changelog
+
+Added:
+
+AE2 Wireless Terminal Library
+Controlling
+
+Updated:
+
+Akashic Tome
+Biomes O' Plenty
+Brandon's Core
+Cyclic
+Draconic Evolution
+Extreme Reactors
+FTB Utilities
+FTBLib
+Iron Chests
+JEI
+Morph-O-Tool
+Mystical Agradditions
+Natura
+NuclearCraft
+Pam's HarvestCraft
+WanionLib
+Wireless Crafting Terminal
+ZeroCore

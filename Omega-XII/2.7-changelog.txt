@@ -1,0 +1,32 @@
+So the Elevator mod is gone, please remove all elevators before updating! Please don't come to me saying "Help! my elevators are gone!" because YOU failed to read the changelog.
+
+ADG Omega XII v2.7.0 Changelog
+
+Added:
+
+OpenModsLib
+OpenBlocks
+FastWorkbench
+FastFurnace
+Waystones
+Toast Control
+Mod Name Tooltip
+Tinkers' Tool Leveling
+
+Updated:
+
+Aroma1997Core
+IndustrialCraft 2
+Solar Flux Reborn
+
+Removed:
+
+OpenBlocks Elevator
+Lapis Stays in the Enchanting Table
+
+Other:
+
+Switched to semantic versioning (Major.Minor.Revision)
+"Major" Updates are "reset" updates, that require you to start a new world. The Next Major update is 3.0.0, coming in February or March.
+"Minor" Updates are updates that add, update, and/or remove new Mods, but nothing game-breaking.
+"Revision" Updates contain solely mod updates (usually under ten mods per update) and config changes.

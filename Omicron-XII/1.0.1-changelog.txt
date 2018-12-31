@@ -1,0 +1,9 @@
+ADG Omicron XII v1.0.1 Changelog
+
+Updated:
+
+Applied Energistics 2
+AutoRegLib
+JEI
+PlusTiC
+UniDict

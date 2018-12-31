@@ -1,0 +1,65 @@
+Configs
+
+Fixed ore Gen
+Disabled DimensionalOres Cobalt in the overworld, Sulfur in the end
+
+Updated: McJtyLib : 1.1x-2.4.5-SNAPSHOT
+Updated: AbyssalCraft : 1.9.4-pre-4 - 1.9.4.1
+Updated: Actually Computers : 2.0.0 - 2.1.0
+Updated: Advanced Generators : 0.9.20.5 - 0.9.20.6
+Updated: Advanced Rocketry : 1.2.2 - 1.2.5a
+Updated: AppleSkin : 1.0.7 - 1.0.9
+Updated: ArmorPlus : 1.11.2-10.7.2.3 - 1.11.2-10.8.0.1
+Updated: Baubles : 1.4.5 - 1.4.6
+Updated: Bdlib : 1.13.2.7 - 1.13.2.8
+Updated: BiblioCraft : 2.3.2 - 2.3.3
+Updated: Brandon's Core : 2.2.1 - 2.2.5
+Updated: Calculator : 4.0.0 - 4.0.1
+Updated: Chest Transporter : 2.7.9 - 2.7.13
+Updated: Chisel 2 : MC1.11.2-0.0.13.22 - MC1.11.2-0.0.14.25
+Updated: Chisels and Bits : 13.12 - 13.14
+Updated: CodeChickenLib : 3.0.0.284 - 3.0.0.298
+Updated: CoFH Core : 4.2.7 - 4.2.8
+Updated: ConnectedTexturesMod : MC1.11.2-0.2.0.8 - MC1.11.2-0.2.3.14
+Updated: Cooking for Blockheads : 5.3.21 - 5.3.27
+Updated: Cyclic : 1.5.9 - 1.5.11
+Updated: Cyclops Core : 0.10.6 - 0.10.9
+Updated: Draconic Evolution : 2.2.1 - 2.2.5
+Updated: ElecCore | DimensionAPI : 1.7.425 - 1.7.431
+Updated: Extreme Reactors : 1.11.2-0.4.5.30 - 1.11.2-0.4.5.44
+Updated: Flat Colored Blocks : mc1.11-5.2 - mc1.11-5.3
+Updated: Forestry : 5.3.4.135 - 5.3.4.202
+Updated: Gendustry : 1.6.5.9 - 1.6.5.10
+Updated: Guide-API : 1.11.2-2.1.1-52 - 1.11.2-2.1.4-56
+Updated: Hammer Core : 1.8.9 - 1.9.3.9
+Updated: Immersive Petroleum : 1.0.7 - 1.1.3
+Updated: IndustrialCraft 2 : 2.7.74-ex111 - 2.7.81-ex111
+Updated: JourneyMap : 1.11.2-5.4.7 - 1.11.2-5.5.2
+Updated: Just Enough Items (JEI) : 4.5.0.294 - 4.5.1.296
+Updated: Lapis Stays in the Enchanting Table : 1.1 - 1.1.2
+Updated: libVulpes : 0.2.5. - 0.2.6.
+Updated: LLibrary : 1.7.6 - 1.7.7
+Updated: Malisis Core : 1.11.2-5.2.2 - 1.11.2-5.2.5
+Updated: Malisis Doors : 1.11.2-6.1.2 - 1.11.2-6.1.3
+Updated: Mekanism : 9.3.2 - 9.3.5
+Updated: Mystical Agradditions : 1.1.0 - 1.1.3
+Updated: Mystical Agriculture : 1.5.8 - 1.5.9
+Updated: Nether Portal Fix : 4.3.1.jar - 4.3.4.jar
+Updated: NuclearCraft : 2.3a - 2.5a
+Updated: OpenComputers : 1.7.0.24 - 1.7.0.51
+Updated: ReAuth : 3.5.0 - 3.5.2
+Updated: RFTools : 6.12 - 7.13
+Updated: Shetiphian Core : 3.4.5 - 3.4.8
+Updated: Silent's Gems : 2.4.2 - 2.4.7
+Updated: Silent's Gems: Extra Parts : 1.3.1 - 1.3.3
+Updated: SonarCore : 4.0.0 - 4.0.1
+Updated: The One Probe : 1.4.14 - 1.4.19
+Updated: TheDragonLib : 1.11.2-3.2.2 - 1.11.2-3.3.0
+Updated: Thermal Dynamics : 2.2.6 - 2.2.7
+Updated: Thermal Expansion : 5.2.6 - 5.2.7
+Updated: Tinker I/O : release 2.5.2c - release 2.5.2d
+Updated: Waystones : 3.0.16 - 3.0.17
+Updated: Woot : 1.11.2-0.3.0 - 1.11.2-1.0.0
+Updated: XNet : 1.3.2 - 1.4.1
+Updated: Zero CORE : 1.11.2-0.1.0.6 - 1.11.2-0.1.1.0
+Removed: Substratum

@@ -1,0 +1,48 @@
+Added: AdvanceBase : 2.0.1
+Added: Brandon's Core : 2.3.0
+Added: Chisels and Bits : 14.3
+Added: Cucumber : 1.0.0
+Added: Draconic Evolution : 2.3.0
+Added: EnderStorage : 2.4.0.119
+Added: HarvestCraft : 1.11.2i
+Added: JEI Integration : 1.2.0.23
+Updated: null : com.pengu.compiler.jar - 1.3.0
+Updated: Actually Additions : 1.12-r115 - 1.12-r116
+Updated: Applied Energistics : rv5-alpha-5 - rv5-beta-2
+Updated: Biomes O' Plenty : 7.0.0.2289 - 7.0.0.2291
+Updated: Bookshelf : 2.0.415 - 2.0.416
+Updated: Chest Transporter : 2.8.3 - 2.8.6
+Updated: CodeChickenLib : 3.1.0.278 - 3.1.1.288
+Updated: CoFH Core : 4.3.2 - 4.3.3
+Updated: Colossal Chests : 1.6.4 - 1.6.5
+Updated: Cyclops Core : 0.10.9 - 0.10.10
+Updated: Dark Utilities : 1.6.162 - 1.6.167
+Updated: ElecCore | DimensionAPI : 1.8.428 - 1.8.429
+Updated: Extreme Reactors : 1.12-0.4.5.33 - 1.12-0.4.5.34
+Updated: Flat Colored Blocks : mc1.12-6.2 - mc1.12-6.3
+Updated: Forestry : 5.4.3.134 - 5.4.3.137
+Updated: Immersive Engineering : 0.12-67 - 0.12-69
+Updated: Immersive Petroleum : 1.0.10 - 1.0.12
+Updated: Industrial Foregoing : 1.11.2-1.0-BETA - 1.11.2-1.1
+Updated: Integrated Dynamics : 0.8.0 - 0.8.2
+Updated: Just Enough Resources (JER) : 0.8.2.18 - 0.8.3.23
+Updated: Mystical Agradditions : 1.2.0 - 1.2.2
+Updated: Mystical Agriculture : 1.6.1 - 1.6.2
+Updated: Quark : r1.2-101 - r1.2-103
+Updated: Reborn Core : 3.2.4.86 - 3.2.5.88
+Updated: Redstone Arsenal : 2.3.2 - 2.3.3
+Updated: Refined Storage : 1.5.12 - 1.5.13
+Updated: Refined Storage Addons : 0.1 - 0.1.1
+Updated: RFTools : 6.10 - 6.12
+Updated: Shadowfacts' Forgelin : 1.4.2 - 1.5.1
+Updated: Silent's Gems : 2.4.2 - 2.4.3
+Updated: Steve's Carts 2 : 2.4.4.25 - 2.4.5.31
+Updated: Tech Reborn : 2.6.9.163 - 2.6.9.165
+Updated: Tesla Core Lib : 1.12-1.0.4 - 1.12-1.0.5
+Updated: Tesla Powered Thingies : 1.12-1.0.4 - 1.12-1.0.5
+Updated: The Lost Cities : 0.0.17beta - 0.0.19beta
+Updated: The One Probe : 1.4.14 - 1.4.15
+Updated: Thermal Dynamics : 2.3.2 - 2.3.3
+Updated: Thermal Expansion : 5.3.2 - 5.3.3
+Updated: Thermal Foundation : 2.3.2 - 2.3.3
+Removed: Morpheus
