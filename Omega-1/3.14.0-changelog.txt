@@ -1,0 +1,37 @@
+ADG Omega XII 3.14.0 Changelog
+
+Updated:
+
+AbyssalCraft
+ArmorPlus
+Chisel
+ConnectedTexturesMod
+Corail Tombstone
+Cyclic
+CyclopsCore
+Ding
+Ender IO
+Ender IO Endergy
+EnderCore
+Flux Networks
+FoamFix
+FTBLib
+FTB Utilities
+FTB Utilities Backups
+HammerCore
+iChunUtil
+Integrated Terminals
+JEI
+JustEnoughIDs
+MysticWorld
+MysticalLib
+NuclearCraft
+Ore Excavation
+PlusTiC
+RebornCore
+Roots
+Tech Reborn
+Tinkers' Construct
+UniDict
+WanionLib
+Wireless Utilities

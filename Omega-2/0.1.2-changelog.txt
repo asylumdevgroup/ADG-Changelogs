@@ -1,0 +1,10 @@
+ADG Omega 2 0.1.2 Changelog
+
+Updated:
+
+Forge to 25.0.108
+
+AppleSkin
+JEI
+Silent Gear
+Xaero's Minimap

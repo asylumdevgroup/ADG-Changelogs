@@ -1,0 +1,36 @@
+ADG Omega XII 3.12.0 Changelog
+
+Updated:
+
+Forge to 2838
+
+AbyssalCraft
+AbyssalCraft Integration
+Actually Additions
+Applied Energistics 2
+ArchitectureCraft
+AutoRegLib
+Brandon's Core
+Building Gadgets
+Cyclic
+FTBLib
+FTB Utilities Backups
+Industrial Foregoing
+Iron Chests
+McJtyLib
+More Overlays
+Mystic World
+NuclearCraft
+p455w0rdsLib
+Prodigy Tech
+Reborn Core
+Refined Storage
+RFTools
+Roots
+Rustic
+Tech Reborn
+XNet
+
+Config:
+
+Disabled Mystic World Ores

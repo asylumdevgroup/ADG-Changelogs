@@ -1,0 +1,53 @@
+ADG Omega XII 3.11.0 Changelog
+
+Updated:
+
+AbyssalCraft
+Actually Additions
+AE2 Wireless Terminal Library
+ArmorPlus
+AutoRegLib
+Brandon's Core
+Common Capabilities
+Cooking for Blockheads
+Corail Tombstone
+CraftTweaker 2
+Culinary Construct
+Cyclic
+Cyclops Core
+Draconic Evolution
+Ender IO
+Ender IO Endergy
+EnderCore
+FTBLib
+FTB Utilities
+Integrated Crafting
+Integrated Dynamics
+Integrated Terminals
+Integrated Tunnels
+JourneyMap
+Just Enough Energistics
+Just Enough HarvestCraft
+JEI
+Just Enough Resources
+KleeSlabs
+More Overlays
+p455w0rdsLib
+Patchouli
+PlusTiC
+PneumaticCraft Repressurized
+Prodigy Tech
+Quark
+Random Things
+Roots (Now on Roots 3, Remove your existing Roots 2 stuff)
+Steve's Carts Reborn
+Tinkers' Construct
+Waystones
+Wireless Crafting Terminal
+YABBA
+
+Scripts:
+
+Removed Endgame SteamWorld items from ProjectE item recipes, as the dimension is broken. These have been replaced by primarily Twilight Forest Materials.
+Made Black Iron Slates Require the IE Metal Press or the TE Compactor
+ProjectE: Disabled and Hid Collectors, Relays, Nova Catalyst/Cataclysm, and Watch of Flowing Time

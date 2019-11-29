@@ -1,0 +1,13 @@
+ADG Omicron XII 1.8.1 Changelog
+
+Updated:
+
+Forge to 2847
+
+Botania
+FTBLib
+FTB Utilities
+Just Enough Energistics
+NuclearCraft
+PlusTiC
+Forgelin

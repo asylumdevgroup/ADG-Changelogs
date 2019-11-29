@@ -1,0 +1,33 @@
+ADG Omega XII v3.2.0 Changelog
+
+Updated:
+
+ArmorPlus
+BetterAdvancements
+Common Capabilities
+Cooking for Blockheads
+Cyclic
+Cyclops Core
+Flat Colored Blocks
+FTBLib
+FTB Utilities
+Integrated Dynamics
+Integrated Tunnels
+JEI
+McJtyLib
+Mystical Agriculture
+Natura
+Nature's Aura
+Nature's Destruction
+NuclearCraft
+Patchouli
+Prodigy Tech
+Quark
+Reborn Core
+RFTools
+RFTools Control
+RFTools Dimensions
+TechReborn
+The One Probe
+XNet
+YABBA

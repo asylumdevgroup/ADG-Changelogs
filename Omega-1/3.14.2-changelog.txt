@@ -1,0 +1,15 @@
+ADG Omega XII 3.14.2 Changelog
+
+Updated:
+
+AbyssalCraft
+Corail Tombstone
+FTBLib
+FTB Backups
+FTB Utilities
+HammerCore
+Mystic World
+MysticalLib
+Roots
+Twilight Forest
+YABBA

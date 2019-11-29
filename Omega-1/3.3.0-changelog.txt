@@ -1,0 +1,69 @@
+ADG Omega XII 3.3.0 Changelog
+
+Updated (65 Mods!):
+
+AbyssalCraft
+Actually Additions
+ArmorPlus
+Aroma1997Core
+Aroma1997's Dimensional World
+Astral Sorcery
+Auraddons
+Better Builder's Wands
+Blood Magic
+Botania
+Building Gadgets
+Chisels and Bits
+CoFH Core
+Common Capabilities
+Corail Tombstone
+CraftTweaker
+Culinary Construct
+Cyclic
+Cyclops Core
+Deep Mob Learning Blood Magic Addon
+Draconic Evolution
+Ender IO
+Ender IO Endergy
+EnderCore
+Extended Crafting
+Extreme Reactors
+FTBLib
+FTB Utilities
+Hammer Core
+Industrial Foregoing
+Integrated Dynamics
+Integrated Tunnels
+Iron Chests
+JEI
+Mantle
+ModTweaker
+Mouse Tweaks
+Mystical Agradditions
+Nature's Aura
+Nature's Destruction
+NuclearCraft
+OpenComputers
+Ore Excavation
+PlusTiC
+PneumaticCraft Repressurized
+ProjectE
+QuantumFlux
+Quark
+Random Things
+RebornCore
+Redstone Arsenal
+Reliquary
+RFTools
+Rustic
+Steve's Carts
+Tech Reborn
+The One Probe
+Thermal Dynamics
+Thermal Expansion
+Thermal Foundation
+Thermal Innovation
+Tinkers' Construct
+Wireless Utilities
+YABBA
+ZeroCore

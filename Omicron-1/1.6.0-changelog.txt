@@ -1,0 +1,28 @@
+ADG Omicron XII 1.6.0 Changelog
+
+Added:
+
+Just Enough Energistics
+Just Enough Resources
+
+Updated:
+
+Forge to 2838
+
+Actually Additions
+AE2 Wireless Terminal Library
+AutoRegLib
+BQ: Standard Expansion
+Cooking for Blockheads
+FTBLib
+FTB Utilities
+JAOPCA
+JourneyMap
+JEI
+ModNameTooltip
+p455w0rdsLib
+PlusTiC
+Quark
+Forgelin
+Tinkers' Construct
+Wireless Crafting Terminal

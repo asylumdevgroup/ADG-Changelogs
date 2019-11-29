@@ -1,0 +1,18 @@
+ADG Omicron XII 1.10.0 Changelog
+
+This is the first of a two-part update which will migrate the pack from Better Questing to FTB Quests. This update adds FTB Quests, and next week's update, 2.0.0, removes BQ and its addons.
+Players: To copy your quests from the old quest book to the new, simply run the command /ftbq_import progress.
+
+Added:
+
+FTB Quests
+FTB Quests Importer
+
+Updated:
+
+AE2 Wireless Terminal Library
+Better Questing
+Better Questing Standard Expansion
+p455w0rdsLib
+TorchMaster
+Wireless Crafting Terminal

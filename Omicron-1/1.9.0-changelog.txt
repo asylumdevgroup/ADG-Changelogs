@@ -1,0 +1,18 @@
+ADG Omicron XII 1.9.0 Changelog
+
+Updated:
+
+Chisel
+ConnectedTexturesMod
+FoamFix
+FTBLib
+FTB Utilities
+FTB Utilities Backups
+Immersive Engineering
+JEI
+NuclearCraft
+Ore Excavation
+PlusTiC
+Tinkers' Construct
+UniDict
+WanionLib

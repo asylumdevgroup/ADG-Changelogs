@@ -1,0 +1,19 @@
+ADG Omega XII 3.14.3 Changelog
+
+Updated:
+
+Actually Additions
+AE2 Wireless Terminal Library
+Blood Magic
+Building Gadgets
+Cyclic
+EnderCore
+FTBLib
+FTB Utilities
+Just Enough HarvestCraft
+JEI
+Nature's Aura
+PneumaticCraft Repressurized
+Roots
+TOP Addons
+Wireless Crafting Terminal

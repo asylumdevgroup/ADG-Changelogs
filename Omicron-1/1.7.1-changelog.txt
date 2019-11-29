@@ -1,0 +1,9 @@
+ADG Omicron XII 1.7.1 Changelog
+
+Updated:
+
+NuclearCraft
+
+Fixed:
+
+Main Menu Version

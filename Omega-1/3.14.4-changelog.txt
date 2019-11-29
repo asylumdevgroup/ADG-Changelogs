@@ -1,0 +1,14 @@
+ADG Omega XII 3.14.4 Changelog
+
+Updated:
+
+AE2 Wireless Terminal Library
+Common Capabilities
+Cyclops Core
+FoamFix
+Integrated Dynamics
+Integrated Terminals
+OpenComputers
+p455w0rdsLib
+TorchMaster
+Wireless Crafting Terminal

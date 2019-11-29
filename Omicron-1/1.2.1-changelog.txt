@@ -1,0 +1,18 @@
+ADG Omicron XII 1.2.1 Changelog
+
+Added:
+
+FTB Utilities Backups
+
+Updated:
+
+Better Advancements
+Better Builder's Wands
+Chisels and Bits
+FTBLib
+FTB Utilities
+Industrial Foregoing
+
+Fixed:
+
+Main Menu Text

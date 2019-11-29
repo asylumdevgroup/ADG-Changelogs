@@ -1,0 +1,7 @@
+ADG Omega 2 0.2.1 Changelog
+
+Updated:
+
+Silent Gear
+SilentLib
+Xaero's Minimap

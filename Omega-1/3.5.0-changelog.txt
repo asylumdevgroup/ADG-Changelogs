@@ -1,0 +1,44 @@
+ADG Omega XII 3.5.0 Changelog
+
+Added:
+
+FTB Utilities Backups
+
+Updated:
+
+AbyssalCraft
+AbyssalCraft Integration
+Aroma1997's Dimensional World
+Auraddons
+Better Advancements
+Better Builder's Wands
+Building Gadgets
+Chisels and Bits
+Common Capabilities
+Corail Tombstone
+CraftTweaker
+Cyclic
+Cyclops Core
+Deep Mob Learning
+FTBLib
+FTB Utilities
+iChunUtil
+Industrial Foregoing
+Integrated Crafting
+Integrated Dynamics
+Integrated Terminals
+Integrated Tunnels
+JourneyMap
+JEI
+MalisisCore
+MTLib
+Mystical Agriculture
+Nature's Aura
+Patchouli
+PlusTiC
+PneumaticCraft Repressurized
+Reborn Core
+Solar Flux Reborn
+Tech Reborn
+Wireless Utilities
+YABBA

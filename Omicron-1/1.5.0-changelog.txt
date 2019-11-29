@@ -1,0 +1,27 @@
+ADG Omicron XII 1.5.0 Changelog
+
+Updated:
+
+Actually Additions
+AutoRegLib
+Better Questing
+Blood Magic
+CoFH Core
+CoFH World
+FTBLib
+FTB Utilities Backups
+Iron Chests
+JAOPCA
+JourneyMap
+Mantle
+McJtyLib
+NuclearCraft
+Pam's HarvestCraft
+PlusTiC
+Quark
+Redstone Arsenal
+RFTools
+Thermal Dynamics
+Thermal Expansion
+Thermal Foundation
+Toast Control

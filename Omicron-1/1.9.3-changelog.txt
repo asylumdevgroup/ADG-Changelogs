@@ -1,0 +1,11 @@
+ADG Omicron XII 1.9.3 Changelog
+
+Updated:
+
+Actually Additions
+AE2 Wireless Terminal Library
+Blood Magic
+FTBLib
+FTB Utilities
+JEI
+Wireless Crafting Terminal

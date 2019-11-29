@@ -1,0 +1,46 @@
+ADG Omega XII 3.13.0 Changelog
+
+Updated:
+
+AbyssalCraft
+Actually Additions
+ArchitectureCraft
+Astral Sorcery
+Blood Magic
+Building Gadgets
+CodeChickenLib
+Corail Tombstone
+Culinary Construct
+CyclopsCore
+Draconic Evolution
+Ender IO
+Ender IO Endergy
+EnderStorage
+EnderCore
+Extended Crafting
+FTBLib
+FTB Utilities
+Hammer Core
+Immersive Engineering
+Integrated Dynamics
+Integrated Terminals
+JourneyMap
+JEI
+JustEnoughIDs
+Mystic World
+MysticalLib
+NuclearCraft
+Pam's HarvestCraft
+PlusTiC
+PneumaticCraft
+Prodigy Tech
+Quark
+Random Things
+RebornCore
+Reliquary
+Roots
+Solar Flux Reborn
+Storage Drawers
+Tech Reborn
+Twilight Forest
+TorchMaster

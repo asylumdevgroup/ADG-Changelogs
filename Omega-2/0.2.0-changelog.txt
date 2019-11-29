@@ -1,0 +1,14 @@
+ADG Omega 2 0.2.0 Changelog
+
+Now on Forge 25.0.141
+
+Added:
+
+No Recipe Book
+CC Tweaked
+Xaero's World Map
+Ender Bags
+
+Updated:
+
+AppleSkin

@@ -1,0 +1,22 @@
+ADG Volatile 2 1.8.0 Changelog
+
+Removed:
+
+Chisels and Bytes
+Inventory Sorter
+TehNut Torcherino
+
+Added:
+
+Controlling
+Actually Additions
+Ore Excavation
+Iron Backpacks
+ReAuth
+More Overlays
+Flat Colored Blocks
+PlusTiC
+NotEnoughIDs
+Steve's Carts Reborn
+Mob Grinding Utils
+Quick Leaf Decay

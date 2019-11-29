@@ -1,0 +1,44 @@
+ADG Omega XII 3.4.0 Changelog
+
+Now on Forge 2815
+
+Added:
+
+Just Enough Energistics (JEE)
+Integrated Terminals
+Integrated Crafting
+
+Updated:
+
+AbyssalCraft
+AbyssalCraft Integration
+ArmorPlus
+Aroma1997Core
+Auraddons
+AutoRegLib
+Botania
+Building Gadgets
+Common Capabilities
+Corail Tombstone
+CyclopsCore
+Draconic Evolution
+Extra Utilities 2
+FastWorkbench
+FTB Utilities
+Immersive Engineering
+Integrated Dynamics
+Integrated Tunnels
+Integration Foregoing
+Nature's Aura
+Patchouli
+PlusTiC
+PneumaticCraft Repressurized
+Quark
+Simple Sponge
+TechReborn
+Wireless Utilities
+YABBA
+
+Fixed:
+
+Re-Added Scripts (Accidentally Removed them Last Update)

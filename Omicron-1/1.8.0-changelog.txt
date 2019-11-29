@@ -1,0 +1,16 @@
+ADG Omicron XII 1.8.0 Changelog
+
+Updated:
+
+Actually Additions
+Blood Magic
+CodeChickenLib
+FTBLib
+FTB Utilities
+Immersive Engineering
+JEI
+NuclearCraft
+Pam's Harvestcraft
+PlusTiC
+Storage Drawers
+TorchMaster

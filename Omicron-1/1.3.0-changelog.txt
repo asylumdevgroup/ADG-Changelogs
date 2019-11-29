@@ -1,0 +1,19 @@
+ADG Omicron XII 1.3.0 Changelog
+
+Updated:
+
+Better Builder's Wands
+Better Questing
+Better Questing - Standard Expansion
+Embers Rekindled
+Environmental Tech
+FTB Utilities
+FTB Utilities Backups
+Industrial Foregoing
+JAOPCA
+JEI
+Mantle
+NuclearCraft
+Placebo
+Tinkers' Construct
+Valkyrie Lib

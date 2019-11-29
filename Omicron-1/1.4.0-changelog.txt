@@ -1,0 +1,21 @@
+ADG Omicron XII 1.4.0 Changelog
+
+Updated:
+
+Actually Additions
+AutoRegLib
+Better Questing
+BQ Standard Expansion
+Chisels and Bits
+FTBLib
+FTB Utilities
+JourneyMap
+JEI
+McJtyLib
+NuclearCraft
+p455w0rdsLib
+PlusTiC
+Quark
+RFTools
+RFTools Control
+XNet

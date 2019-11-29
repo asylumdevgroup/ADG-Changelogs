@@ -1,0 +1,38 @@
+ADG Omega 3 1.2.0 Changelog
+
+Added:
+
+Refined Storage
+RFTools Builder
+RFTools Storage
+
+Updated:
+
+Forge to 28.1.79
+
+Building Gadgets
+Chem Lib
+Corail Tombstone
+Crafting Station
+CraftTweaker
+Easy Steel and More
+Essentials
+Extra Anvils
+Forbidden and Arcanus
+Gobber
+Iron Jetpacks
+JER
+Light Overlay
+McJtyLib
+Mystical World
+MysticalLib
+Overloaded
+Overloaded Armor Bar
+Quantum Storage
+RFTools Base
+RFTools Power
+RFTools Utility
+Spike Traps
+Steve's Factory Manager Reborn
+Tinkers' Mechworks
+Unstable Tools

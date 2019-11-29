@@ -1,0 +1,27 @@
+ADG Volatile 2 1.9.0 Changelog
+
+Added:
+
+OpenModsLib
+OpenBlocks
+Extreme Reactors
+ZeroCore
+ValkyrieLib
+Environmental Tech
+Exchangers
+TOP Addons
+Tiny Progressions
+Gravestone Mod
+NetherPortalFix
+Bed Patch
+Notes
+CoFHCore
+Thermal Foundation
+
+Removed:
+
+Graves (swapped out for EuhDawson's Gravestone Mod)
+
+Configs:
+
+Unified Ore Gen to Thermal Foundation

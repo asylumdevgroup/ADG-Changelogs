@@ -1,0 +1,9 @@
+ADG Omega 2 0.1.1 Changelog
+
+Now on Forge 25.0.107
+
+Updated:
+
+JEI
+Silent Gear
+SilentLib

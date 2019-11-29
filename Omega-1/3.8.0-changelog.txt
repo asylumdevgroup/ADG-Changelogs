@@ -1,0 +1,34 @@
+ADG Omega XII 3.8.0 Changelog
+
+Updated:
+
+Forge to 2836
+
+ArmorPlus
+Astral Sorcery
+Auraddons
+Botania
+Brandon's Core
+Ceramics
+Cooking for Blockheads
+Culinary Construct
+Cyclic
+Deep Mob Learning
+Draconic Evolution
+Embers Rekindled
+EnderCore
+Extended Crafting
+FTBLib
+FTB Utilities
+JEI
+Nature's Aura
+NuclearCraft
+OpenBlocks
+OpenModsLib
+Pam's HarvestCraft
+RandomThings
+RebornCore
+RS: Requestify
+Soot
+TOP Addons
+YABBA

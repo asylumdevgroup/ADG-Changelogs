@@ -1,0 +1,83 @@
+ADG Omega XII 1.12.2 2.8.1 to Omega-XII 3.0.0
+
+Added:
+	- AbyssalCraft
+	- AbyssalCraft Integration
+	- ArchitectureCraft - ElytraDev Version
+	- ArmorPlus
+	- Auraddons
+	- Chickens
+	- Corail Tombstone
+	- CraftTweaker
+	- Culinary Construct
+	- Custom Main Menu
+	- Deep Mob Learning
+	- Deep Mob Learning - Blood Magic Addon
+	- Ender IO
+	- Ender IO Endergy
+	- EnderCore
+	- Equivalent Energistics
+	- Extended Crafting
+	- Flux Networks
+	- Immersive Cables
+	- Immersive Petroleum
+	- Industrial Foregoing
+	- Integration Foregoing
+	- JustEnoughIDs
+	- ModTweaker
+	- More Chickens
+	- MTLib
+	- MystAgrad Cloche Compat
+	- Nature's Aura
+	- Nature's Destruction
+	- PneumaticCraft: Repressurized
+	- Portality
+	- ProjectE
+	- QuantumFlux
+	- Reborn Core
+	- Reborn Storage
+	- Refined Storage: Requestify
+	- Resource Loader
+	- Roost
+	- Shadowfacts' Forgelin
+	- Soot
+	- Steve's Carts Reborn
+	- Tech Reborn
+	- Tesla Core Lib
+	- TheDragonLib
+	- Thermal Innovation
+	- Wireless Crafting Terminal
+	- Zetta Industries
+
+Updated:
+	-ET Lunar
+	-Environmental Tech
+	-Just Enough Items (JEI)
+	-NuclearCraft
+	-Quark
+Removed:
+	- Angel Ring To Bauble
+	- BeeBetterAtBees
+	- Better Title Screen
+	- Binnie's Mods
+	- Biomes O' Plenty
+	- Controlling
+	- Decocraft2
+	- Forestry
+	- Gendustry
+	- Industrial Craft
+	- Industrial Wires
+	- JEI Bees
+	- Mod Name Tooltip
+	- Not Enough Wands
+	- NotEnoughIDs
+	- Placebo
+	- PTRLib
+	- Refined Relocation 2
+	- TATW
+	- Tinkers' Tool Leveling
+	- Toast Control
+	- Tomb Many Graves 2
+	- TombManyGraves 2 API
+
+* Generated using https://github.com/TheRandomLabs/ChangelogGenerator (1.12.2)

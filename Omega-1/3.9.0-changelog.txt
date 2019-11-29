@@ -1,0 +1,44 @@
+ADG Omega XII 3.9.0 Changelog
+
+Updated:
+
+AbyssalCraft
+Actually Additions
+ArmorPlus
+Astral Sorcery
+AutoRegLib
+Chisels and Bits
+Common Capabilities
+Corail Tombstone
+Cyclic
+CyclopsCore
+EnderCore
+Extreme Reactors
+FastFurnace
+FastWorkbench
+FTBLib
+FTB Utilities
+HammerCore
+Industrial Foregoing
+JourneyMap
+JEI
+McJtyLib
+Mystical Agradditions
+Mystical Agriculture
+Nature's Aura
+NuclearCraft
+Ore Excavation
+p455w0rdsLib
+Patchouli
+PlusTiC
+PneumaticCraft Repressurized
+ProdigyTech (This removes some items, backup your world)
+ProjectE
+QuantumFlux
+Quark
+RFTools
+RFTools Control
+RFTools Dimensions
+Roost
+XNet
+YABBA

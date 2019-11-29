@@ -1,0 +1,22 @@
+ADG Omega XII v3.1.0 Changelog
+
+Updated:
+
+Auraddons
+Better Builder's Wands
+Cyclic
+Deep Mob Learning
+Embers Rekindled
+FTB Utilities
+JEI
+Morph-O-Tool
+Nature's Aura
+NuclearCraft
+Quark
+Random Things
+RebornCore
+Rustic
+Solar Flux Reborn
+TechReborn
+Tinkers' Construct
+TorchMaster

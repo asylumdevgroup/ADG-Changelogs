@@ -1,0 +1,51 @@
+ADG Omega XII 3.10.0 Changelog
+
+Updated:
+
+Actually Additions
+ArmorPlus
+Astral Sorcery
+AutoRegLib
+Blood Magic
+Brandon's Core
+CoFH Core
+CoFH World
+Common Capabilities
+Corail Tombstone
+CraftTweaker
+Cyclic
+CyclopsCore
+Deep Mob Learning
+Deep Mob Learning - Blood Magic Addon
+Draconic Evolution
+Ender IO
+Ender IO Endergy
+FastWorkbench
+Flat Colored Blocks
+FTBLib
+FTB Utilities Backups
+Hammer Core
+Integrated Crafting
+Integrated Dynamics
+Integrated Terminals
+Iron Chests
+JAOPCA
+JourneyMap
+Mantle
+McJtyLib
+Natura
+NuclearCraft
+Pam's HarvestCraft
+PlusTiC
+PneumaticCraft Repressurized
+Prodigy Tech
+Quark
+RebornStorage
+Redstone Arsenal
+RFTools
+RFTools Dimensions
+Thermal Dynamics
+Thermal Expansion
+Thermal Foundation
+Thermal Innovation
+Wireless Utilities

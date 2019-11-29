@@ -1,0 +1,8 @@
+ADG Omicron XII 1.5.1 Changelog
+
+Updated:
+
+Chisels and Bits
+FTBLib
+FTB Utilities
+Quark

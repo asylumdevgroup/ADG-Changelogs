@@ -1,0 +1,9 @@
+ADG Omega 2 0.3.1 Changelog
+
+Updated:
+
+CC: Tweaked
+Essentials
+JEI
+SilentLib
+Xaero's Worldmap

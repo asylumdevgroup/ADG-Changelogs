@@ -1,0 +1,11 @@
+ADG Omega XII 3.14.1 Changelog
+
+Updated:
+
+Chisel
+Corail Tombstone
+Flux Networks
+FTBLib
+FTB Utilities
+Reborn Core
+Tech Reborn

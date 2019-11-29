@@ -1,0 +1,26 @@
+ADG Omicron XII v1.1.0 Changelog
+
+Now on Forge 2796
+
+Updated:
+
+Better Advancements
+Better Builder's Wands
+Better Questing
+Better Questing - Standard Expansion
+Cooking for Blockheads
+Embers Rekindled
+FTBLib
+FTB Utilities
+JEI
+McJtyLib
+NuclearCraft
+Placebo
+Quark
+RFTools
+RFTools Control
+The One Probe
+Tinkers' Construct
+Toast Control
+TorchMaster
+XNet

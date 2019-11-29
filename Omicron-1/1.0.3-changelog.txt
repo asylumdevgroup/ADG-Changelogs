@@ -1,0 +1,10 @@
+ADG Omicron XII v1.0.3 Changelog
+
+Updated:
+
+Environmental Tech
+Industrial Foregoing
+JEI
+NuclearCraft
+Quark
+ValkyrieLib

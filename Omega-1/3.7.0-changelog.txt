@@ -1,0 +1,40 @@
+ADG Omega XII 3.7.0 Changelog
+
+Updated:
+
+AbyssalCraft
+Astral Sorcery
+Better Builder's Wands
+Building Gadgets
+Common Capabilities
+CraftTweaker
+Cyclic
+CyclopsCore
+Embers Rekindled
+Ender IO
+Ender IO Endergy
+EnderCore
+Environmental Tech
+ET Lunar
+Extended Crafting
+FoamFix
+FTB Utilities
+FTB Utilities Backups
+HammerCore
+Industrial Foregoing
+Integrated Dynamics
+JAOPCA
+JEHC
+JEI
+Mantle
+ModTweaker
+Nature's Aura
+NuclearCraft
+PneumaticCraft: Repressurized
+Random Things
+Reborn Core
+Steve's Carts
+Tech Reborn
+Tinkers' Construct
+ValkyrieLib
+YABBA

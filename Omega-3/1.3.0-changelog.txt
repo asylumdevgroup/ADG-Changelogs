@@ -1,0 +1,75 @@
+ADG Omega 3 1.3.0 Changelog
+
+Added:
+
+AutoRegLib
+Quark
+Cooking For Blockheads
+Cyclops Core
+Colossal Chests
+ITLT
+InstantUnify
+ValkryieLib
+Environmental Materials
+MaLiLib
+Item Scroller
+Engineer's Decor
+Blue Power
+U Team Core
+Useful Railroads
+Rock Candy
+Grass World
+Mystical Wildlife
+Practical Tools
+Simply Tea
+Bow Infinity Fix
+Ranged Pumps
+Endergetic Expansion
+Illagers+
+Colytra
+Flopper
+Techemistry
+
+Updated:
+
+Forge to 28.1.90
+
+Attained Drops
+ChemLib
+Crafting Station
+CraftTweaker
+Easy Steel and More
+Forbidden and Arcanus
+Gobber
+Just Enough Calculation
+JEI
+JER
+Light Overlay
+McJtyLib
+Metal Barrels
+More Charcoal
+Mystical Agriculture
+Mystical World
+MysticalLib
+No Recipe Book
+Nomadic Tents
+Ore Excavation
+Packing Tape
+Placebo
+PlantTech 2
+RFTools Base
+RFTools Builder
+RFTools Power
+RFTools Storage
+RFTools Utility
+Ring of Attraction
+Ring of Repair
+Road Stuff
+Silent Gear
+Silent Mechanisms
+Simple Storage Network
+Speedy Hoppers
+Traverse
+Unstable Tools
+Xaero's Minimap
+Xaero's World Map

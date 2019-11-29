@@ -1,0 +1,9 @@
+ADG Omicron XII 1.3.2 Changelog
+
+Updated:
+
+Botania
+FTBLib
+JEI
+OpenBlocks
+OpenModsLib

@@ -1,0 +1,20 @@
+ADG Omicron XII 1.7.0 Changelog
+
+Updated:
+
+Actually Additions
+Applied Energistics 2
+ArchitectureCraft
+AutoRegLib
+Better Questing
+BQ: Standard Expansion
+FTBLib
+FTB Utilities Backups
+Industrial Foregoing
+Iron Chest
+McJtyLib
+More Overlays
+NuclearCraft
+p455w0rdsLib
+RFTools
+XNet

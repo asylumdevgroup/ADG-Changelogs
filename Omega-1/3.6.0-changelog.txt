@@ -1,0 +1,21 @@
+ADG Omega XII 3.6.0 Changelog
+
+Updated:
+
+ArmorPlus
+Aroma1997Core
+Common Capabilities
+Corail Tombstone
+Cyclops Core
+Deep Mob Learning
+FastFurnace
+FTBLib
+FTB Utilities
+Hammer Core
+Integrated Crafting
+Integrated Dynamics
+Integrated Terminals
+Integrated Tunnels
+NuclearCraft
+Refined Storage
+Refined Storage Addons

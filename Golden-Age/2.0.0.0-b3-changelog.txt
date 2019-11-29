@@ -1,0 +1,17 @@
+ADG Golden Age 2.0.0.0 Beta 3 Changelog
+
+Updated:
+
+Better Questing
+BQ Questbook
+BQ RF Expansion
+BQ Standard Expansion
+Carpenter's Blocks
+Eternal Singularity
+OpenComputers
+OpenModsLib
+Ore Excavation
+
+Changed:
+
+Main Menu (Pack Specific Info)

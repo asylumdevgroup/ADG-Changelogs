@@ -1,0 +1,9 @@
+ADG Omicron XII 1.2.2 Changelog
+
+Updated:
+
+Aroma1997Core
+Better Questing
+FTBLib
+FTB Utilities
+NuclearCraft

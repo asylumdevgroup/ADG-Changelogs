@@ -1,0 +1,20 @@
+ADG Omega XII 3.10.1 Changelog
+
+Updated:
+
+AbyssalCraft
+Chisels and Bits
+Cyclic
+Deep Mob Learning
+FTBLib
+FTB Utilities
+Integrated Dynamics
+Integrated Tunnels
+PneumaticCraft Repressurized
+Portality
+Quark
+YABBA
+
+Config:
+
+Disabled Duplicate Ores from TechReborn (How did I miss this?)

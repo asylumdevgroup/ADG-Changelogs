@@ -1,0 +1,50 @@
+ADG Omega 3 1.1.0 Changelog
+
+Added:
+
+Mystical Agriculture
+Just Enough Resources
+Crafting Tweaks
+Random Things
+RFTools Power
+Quantum Storage
+No Recipe Book
+Ding
+Nomadic Tents
+Packing Tape
+Silent's Mechanisms
+RFTools Base
+Refined Relocation 2
+RFTools Utility
+Steve's Factory Manager Reborn
+
+Updated:
+
+Alchemistry
+Aquaculture 2
+Building Gadgets
+Corail Tombstone
+Crafting Station
+Cucumber Library
+Easy Steel
+FastWorkbench
+Gobber
+JAOPCA
+Light Overlay
+McJtyLib
+Mystical World
+Mystical Lib
+Overloaded
+PlantTech 2
+Ring of Attraction
+Ring of Blink
+Ring of Growth
+Ring of Repair
+Ring of Teleport
+Ring of the Ender Chest
+Road Stuff 2
+Titanium
+Xaero's Minimap
+Xaero's Worldmap
+XL Food Mod
+YAMDA

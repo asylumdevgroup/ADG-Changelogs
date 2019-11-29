@@ -1,0 +1,8 @@
+ADG Omega 2 1.0.0 Changelog - Final Update (Unless mods receive patches)
+
+Updated:
+
+Essentials
+JEI
+Xaero's Minimap
+Xaero's Worldmap

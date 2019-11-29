@@ -1,0 +1,16 @@
+ADG Omicron XII 1.7.2 Changelog
+
+Updated:
+
+ArchitectureCraft
+CodeChickenLib
+Ender Storage
+JourneyMap
+NuclearCraft
+Pam's HarvestCraft
+Quark
+
+Downgraded:
+
+Better Questing
+BQ: Standard Expansion

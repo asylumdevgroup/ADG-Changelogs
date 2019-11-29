@@ -1,0 +1,21 @@
+ADG Omega 2 0.3.0 Changelog
+
+Added:
+
+Gamemode Overhaul
+Corail Tombstone
+Essentials
+Hwyla
+
+Removed:
+
+TOP
+Ore Excavation
+/gamemode 1
+
+Updated:
+
+JEI
+Silent Gear
+SilentLib
+Xaero's Minimap
