@@ -1,0 +1,68 @@
+ADG Omega 3 1.7.0 Changelog
+
+This version is meant to serve as a cleanup update, removing redundancies and changing configs to prepare for a much more massive 2.0.0 update in the near future.
+
+Added:
+
+Patchouli
+Curios
+Botania
+Comforts
+FindMe
+ShetiPhianCore
+Platforms
+
+Updated:
+
+Forge to 28.1.109
+
+A Lib
+Additional Enchanted Miner
+Alchemistry
+Aquaculture
+BluePower
+CC Tweaked
+Chem Lib
+Cooking for Blockheads
+Corail Tombstone
+Crafting Station
+Crafting Tweaks
+Easy Steel and More
+Engineer's Decor
+Essentials
+Forbidden and Arcanus
+Gobber
+GrassWorld
+Industrial Foregoing
+JAOPCA
+Just Enough Calculation
+JEI
+McJtyLib
+Quark
+Random Enchants
+Refined Relocation
+RFTools Builder
+Silent Gear
+Silent's Mechanisms
+Simple Storage Network
+Solar Flux Reborn
+Steve's Factory Manager Reborn
+Techemistry
+Titanium
+TorchMaster
+U Team Core
+Xaero's Minimap
+XNet
+
+Removed:
+
+Ring of Attraction (Redundant)
+Ring of Blink (Redundant)
+Ring of Growth (Redundant)
+Ring of Repair (Redundant)
+Ring of Teleport (Redundant)
+Ring of Enderchest (Redundant)
+
+Configs:
+
+Disabled Mystical World Ores

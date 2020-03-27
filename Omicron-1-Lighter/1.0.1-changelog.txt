@@ -1,0 +1,8 @@
+ADG Omicron 1 Lighter Edition 1.0.1 Changelog
+
+Updated:
+
+CTM
+FoamFix
+FTBLib
+FTB Utilities

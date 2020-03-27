@@ -1,0 +1,30 @@
+ADG Omega 3 1.6.0 Changelog
+
+Added:
+
+Solar Flux Reborn
+AI Improvements
+DruidCraft
+Scalable Cat's Force
+Additional Enchanted Miner
+More Overlays
+
+Updated:
+
+CraftTweaker
+Cucumber
+Dark Utilities
+Just Enough Calculation
+McJtyLib
+Mystical Agriculture
+RFTools Base
+RFTools Builder
+RFTools Power
+RFTools Storage
+RFTools Utility
+Silent's Gems
+XNet
+
+Removed:
+
+Light Overlay (Replaced with More Overlays)

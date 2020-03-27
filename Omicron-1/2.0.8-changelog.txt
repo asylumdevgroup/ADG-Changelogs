@@ -1,0 +1,16 @@
+ADG Omicron 1 2.0.8 Changelog
+
+Updated:
+
+FTBLib
+JourneyMap
+Ore Excavation
+Quark
+Storage Drawers
+Tesla Core Lib
+Tinkers' Construct
+
+Quests:
+
+Fixed Smeltery Quest to Require a Smeltery Controller, not a Seared Furnace Controller
+Fixed Part Builder and Stencil Table Quests to Ignore NBT

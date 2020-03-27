@@ -1,0 +1,47 @@
+ADG Omega 3 1.9.0 Changelog
+
+Updated:
+
+Additional Enchanted Miner
+Alchemistry
+Aquaculture 2
+Blue Power
+Botania
+Caelus API
+Controlling
+Cooking for Blockheads
+Corail Tombstone
+Crafting Tweaks
+CraftTweaker
+Curios API
+Cyclic
+Dark Utilities
+DruidCraft
+Engineer's Decor
+Essentials
+Extra Anvils
+Just Enough Calculation
+Just Enough Resources
+Large Fluid Tank
+Modular Routers
+Mystical Agriculture
+Mystical World
+MysticalLib
+Patchouli
+Quark
+RandomPatches
+Road Stuff 2
+Scalable Cat's Force
+Silent's Gems
+Silent's Mechanisms
+The Endergetic Expansion
+U Team Core
+Useful Railroads
+Waystones
+Xaero's Minimap
+Xaero's Worldmap
+XL Food Mod
+
+Removed:
+
+No Recipe Book (In Quark Config)

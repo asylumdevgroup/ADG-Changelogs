@@ -1,0 +1,10 @@
+ADG Omicron 1 2.0.2 Changelog
+
+Updated:
+
+JourneyMap
+NuclearCraft
+
+Changed:
+
+Updated the "About the Quest Book Quest" for FTBQ

@@ -1,0 +1,10 @@
+ADG Omicron 1 2.0.6 Changelog
+
+Updated:
+
+Aroma1997Core
+Cooking for Blockheads
+Custom Main Menu
+JourneyMap
+RFTools
+UniDict

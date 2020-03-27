@@ -1,0 +1,10 @@
+ADG Omicron 1 Lighter Edition 1.0.8 Changelog
+
+Updated:
+
+FTBLib
+JourneyMap
+Ore Excavation
+Quark
+Storage Drawers
+Tinkers' Construct

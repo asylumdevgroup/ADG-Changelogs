@@ -1,0 +1,52 @@
+ADG Omega 1 4.0.0 Changelog
+
+This is a MAJOR Update, Starting a new world is not required, but recommended to avoid having to load new chunks.
+Future 4.x.x Updates will include additional changed endgame recipes, Quests (Added Gradually), and possibly more mod additions!
+
+Added:
+
+/dank/null
+A Lib
+Advanced Solars Classic
+Alchemistry
+B.A.S.E
+Blood Arsenal
+Chicken Chunks 1.8.+
+Compact Machines
+Construct's Armory
+ContentTweaker
+Controlling
+ExtraCells2
+Gravisuit Classic
+IC2 Classic
+Item Filters
+LibraryEx
+Logistics Pipes
+MCMultiPart
+Mekanism
+Mekanism Generators
+Mekanism Tools
+Mod Name Tooltip
+Neat
+NetherEx
+No Recipe Book
+Practical Logistics 2
+Railcraft
+RandomPatches
+Simply Jetpacks 2
+Snad
+Thermal Cultivation
+Tinkers' Complement
+Toast Control
+Woot
+
+Updated:
+
+AbyssalCraft
+Cyclic
+Hammer Core
+
+Changed:
+
+Recipes for Elite/Ultimate Crafting Tables
+Added ADG Core (Custom item akin to the ATM Star, Currently Uncraftable)

@@ -1,0 +1,78 @@
+ADG Omega 4 1.1.0 Changelog
+
+Now on Forge 31.1.27
+
+Added:
+
+JourneyMap
+AppleSkin
+Storage Drawers
+Iron Chests
+Cooking for Blockheads
+Waystones
+Nature's Compass
+Libnonymous
+Bonsai Trees 2
+Comforts
+Solar Flux Reborn
+Hammer Lib
+Patchouli
+Nature's Aura
+Auraddons
+Mining Gadgets
+Angel Ring
+Industrial Agriculture + Addons
+
+Updated:
+
+Additional Enchanted Miner
+Alchemistry
+Apotheosis
+Aquaculture 2
+Biomes O' Plenty
+BluePower
+Chem Lib
+Click Machine
+Corail Tombstone
+Crafting Station
+CraftTweaker
+Cucumber
+Cyclic
+Easy Steel and More
+Engineer's Decor
+Gobber 2
+Industrial Foregoing
+Iron Jetpacks
+JAOPCA
+Large Fluid Tank
+McJtyLib
+Mekanism
+Mekanism Generators
+Mekanism Tools
+Mystical Agriculture
+OpenBlocks Elevator
+Ore Excavation
+Powder Power
+Prefab
+Refined Relocation
+Resourceful Tools
+RFTools Base
+RFTools Builder
+RFTools Storage
+RFTools Utility
+Silent Gear
+Silent's Gems
+Simple Storage Network
+Techemistry
+The One Probe
+The Veggie Way
+Titanium
+U Team Core
+Useful Backpacks
+Water Strainer
+XNet
+
+Removed:
+
+Xaero's Minimap
+Xaero's Worldmap

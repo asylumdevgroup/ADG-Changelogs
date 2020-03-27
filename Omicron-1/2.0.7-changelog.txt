@@ -1,0 +1,13 @@
+ADG Omicron 1 2.0.7 Changelog
+
+Updated:
+
+FTBLib
+JourneyMap
+Tesla Core Lib
+Tinkers' Construct
+UniDict
+
+Quests:
+
+Added Missing Description for 2 Quests

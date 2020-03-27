@@ -1,0 +1,47 @@
+ADG Omega 4 0.2.0 Changelog
+
+Added:
+
+Controlling
+Placebo
+FastWorkbench
+Toast Control
+FastFurnace
+Nature's Compass
+Click Machine
+A Lib
+Alchemistry
+Chem Lib
+BluePower
+Techemistry
+Mekanism
+Mekanism Generators
+Mekanism Tools
+Attained Drops 2
+Corail Woodcutter
+Corail Pillar
+Corail Pillar - Extension Biomes O' Plenty
+Additional Enchanted Miner
+No Default Auto-Jump
+Spike Traps
+Random Enchants
+Stronghold Compass
+Useless Mod
+
+Updated:
+
+Forge to 30.0.41
+
+Classic Bar
+Corail Tombstone
+Crafting Station
+Cursed Earth
+Easy Steel and More
+Engineer's Decor
+Gobber 2
+ReAuth
+Simple Storage Network
+The Veggie Way
+Walkthrough Berries
+Xaero's Minimap
+Xaero's Worldmap

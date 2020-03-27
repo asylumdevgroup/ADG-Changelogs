@@ -1,0 +1,45 @@
+ADG Omega 3 1.10.0 Changelog
+
+Now on Forge 28.2.3
+
+Added:
+
+JourneyMap
+Storage Drawers
+Libnonymous
+Bonsai Trees 2
+Farming for Blockheads
+PneumaticCraft: Repressurized
+
+Updated:
+
+Additional Enchanted Miner
+Alchemistry
+Angel Ring
+Botania
+Chem Lib
+Comforts
+Corail Tombstone
+Crafting Station
+CraftTweaker
+Dark Utilities
+DruidCraft
+EnderTanks
+Engineer's Decor
+Flopper
+JAOPCA
+Nature's Compass
+Nomadic Tents
+Patchouli
+Prefab
+Quark
+ShetiPhianCore
+Solar Flux Reborn
+Steve's Factory Manager Reborn
+Techemistry
+The Endergetic Expansion
+
+Removed:
+
+Xaero's Minimap
+Xaero's Worldmap

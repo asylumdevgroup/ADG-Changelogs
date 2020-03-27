@@ -1,0 +1,33 @@
+ADG Omega 1 4.0.3 Changelog
+
+Added:
+
+GunpowderLib
+
+Updated:
+
+AbyssalCraft
+Alchemistry
+Blood Arsenal
+Building Gadgets
+Corail Tombstone
+Cyclic
+Exchangers
+FTBLib
+Integration Foregoing
+JourneyMap
+LibraryEx
+NetherEx
+NuclearCraft
+OreExcavation
+Pam's Harvestcraft
+PneumaticCraft: Repressurized
+Quark
+Random Things
+Reborn Core
+Simple Sponge
+Storage Drawers
+Tech Reborn
+Tesla Core Lib
+Tinker I/O
+Tinkers' Construct

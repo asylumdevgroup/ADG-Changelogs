@@ -1,0 +1,56 @@
+ADG Omega 3 1.4.0 Changelog
+
+Sorry for the lack of an update last week.
+
+Added:
+
+Bookshelf
+Dark Utilities
+Industrial Foregoing
+Refined Storage Addons
+Modular Routers
+Mining Gadgets
+
+Updated:
+
+Angel Ring
+Apple Skin
+Blue Power
+CC Tweaked
+Chem Lib
+Colossal Chests
+Colytra
+Cooking For Blockheads
+Cursed Earth
+Cyclops Core
+Easy Steel and More
+Engineer's Decor
+Essentials
+Extra Anvils
+Flopper
+McJtyLib
+Mystical World
+MysticalLib
+Placebo
+PlantTech 2
+Prefab
+Refined Storage
+RFTools Base
+RFTools Builder
+RFTools Power
+RFTools Storage
+RFTools Utility
+Ring of Attraction
+Ring of Blink
+Ring of Growth
+Ring of Repair
+Ring of Teleport
+Ring of Enderchest
+Silent Gear
+Silent's Mechanisms
+Steve's Factory Manager
+Techemistry
+Titanium
+Unstable Tools
+Xaero's Minimap
+Xaero's World Map

@@ -1,0 +1,50 @@
+ADG Omega 3 1.8.0 Changelog
+
+Added:
+
+Waystones
+Mystical Agradditions
+Farming for Blockheads
+Nature's Compass
+Water Strainer
+Large Fluid Tank
+The Midnight
+EnderTanks
+Corail Woodcutter
+Corail Pillar - Extension Quark and Botania
+Long Fall Boots
+
+Updated:
+
+Forge to 28.1.115
+
+Additional Enchanted Miner
+Angel Ring
+Botania
+CC: Tweaked
+Controlling
+Cooking for Blockheads
+Corail Pillar
+Crafting Station
+Crafting Tweaks
+CraftTweaker
+Cyclic
+Engineer's Decor
+Forbidden and Arcanus
+Just Enough Calculation
+Mystical Agriculture
+Mystical Wildlife
+Mystical World
+MysticalLib
+Prefab
+Quark
+ReAuth
+Refined Relocation 2
+Steve's Factory Manager Reborn
+Useful Railroads
+Xaero's Minimap
+Xaero's Worldmap
+
+Removed:
+
+PlantTech 2 (Buggy, may return later)

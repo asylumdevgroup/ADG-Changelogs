@@ -1,0 +1,24 @@
+ADG Omega 1 4.0.2 Changelog
+
+Updated:
+
+Alchemistry
+Building Gadgets
+Construct's Armory
+Corail Tombstone
+Culinary Construct
+Cyclic
+Cyclops Core
+FTBLib
+Hammer Core
+Integrated Dynamics
+JourneyMap
+ModTweaker
+Nature's Aura
+PneumaticCraft: Repressurized
+Roots
+Solar Flux Reborn
+Tesla Core Lib
+Tinkers' Construct
+TOP Addons
+UniDict

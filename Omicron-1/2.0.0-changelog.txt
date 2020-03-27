@@ -1,0 +1,17 @@
+ADG Omicron 1 2.0.0 Changelog
+
+This update removes Better Questing and its Addons. Please Migrate your progress to FTB Quests using /ftbq_import progress before updating.
+
+Updated:
+
+CTM
+FoamFix
+FTBLib
+FTB Utilities
+
+Removed:
+
+FTBQ Importer
+Better Questing
+Better Questing Quest Book
+BQ: Standard Expansion

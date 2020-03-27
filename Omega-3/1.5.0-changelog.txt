@@ -1,0 +1,36 @@
+ADG Omega 3 1.5.0 Changelog
+
+Added:
+
+Random Enchants
+
+Updated:
+
+Bookshelf
+Crafting Station
+CraftTweaker
+Dark Utilities
+Engineer's Decor
+Essentials
+Forbidden and Arcanus
+GrassWorld
+Item Scroller
+JEI
+MaLiLib
+McJtyLib
+Morpheus
+Mystical World
+MysticalLib
+Quark
+RFTools Utility
+Steve's Factory Manager
+Techemistry
+Traverse
+Unstable Tools
+Xaero's Minimap
+Xaero's Worldmap
+XNet
+
+Configs:
+
+Finally Fixed Ore Generation

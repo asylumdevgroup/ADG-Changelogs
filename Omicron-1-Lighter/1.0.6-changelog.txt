@@ -1,0 +1,7 @@
+ADG Omicron 1 Lighter Edition 1.0.6 Changelog
+
+Updated:
+
+Custom Main Menu
+JourneyMap
+UniDict

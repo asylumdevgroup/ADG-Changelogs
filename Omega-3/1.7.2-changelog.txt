@@ -1,0 +1,16 @@
+ADG Omega 3 1.7.2 Changelog
+
+Added:
+
+ReAuth
+
+Updated:
+
+JAOPCA
+Just Enough Resources
+Nomadic Tents
+Ore Excavation
+Simply Tea
+Xaero's Minimap
+Xaero's Worldmap
+XL Food Mod
