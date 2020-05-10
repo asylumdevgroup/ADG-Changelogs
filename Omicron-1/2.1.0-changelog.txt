@@ -1,0 +1,25 @@
+ADG Omicron 1 2.1.0 Changelog
+
+Added:
+
+Moar Tinkers
+
+Updated:
+
+Aroma1997Core
+Chisel
+CoFH Core
+CoFH World
+CTM
+JourneyMap
+NuclearCraft
+Quark
+Redstone Arsenal
+Redstone Flux
+Thermal Dynamics
+Thermal Expansion
+Thermal Foundation
+
+Removed:
+
+PlusTiC (No Longer on CurseForge)

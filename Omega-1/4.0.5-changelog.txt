@@ -1,0 +1,27 @@
+ADG Omega 1 4.0.5 Changelog
+
+NOTE: 4.1.0 will switch from Moar Tinkers to xXx_MoreToolMats_xXx (A safe fork of PlusTiC), so be ready!
+
+Added:
+
+xXx_MoreToolMats_xXx
+
+Updated:
+
+/dank/null
+AbyssalCraft
+Construct's Armory
+Culinary Construct
+FoamFix
+Hammer Lib
+JEI Integration
+LibraryEx
+Logistics Pipes
+NetherEx
+RandomPatches
+Redstone Arsenal
+Refined Storage
+Refined Storage Addons
+Roots
+Rustic
+Storage Drawers

@@ -1,0 +1,49 @@
+ADG Omega 3 1.11.0 Changelog
+
+Added:
+
+Charm
+Culinary Construct
+JEI Integration
+Nature's Aura
+YUNG's Better Caves
+Create
+
+Updated:
+
+Forge to 28.2.6
+
+BluePower
+Bookshelf
+Botania
+CC: Tweaked
+Controlling
+Corail Tombstone
+CraftTweaker
+Cyclic
+Druidcraft
+Engineer's Decor
+Essentials
+Gobber 2
+ItemScroller
+JAOPCA
+JourneyMap
+Just Enough Resources
+Large Fluid Tank
+MaLiLib
+Mining Gadgets
+Mystical World
+MysticalLib
+Packing Tape
+Patchouli
+PneumaticCraft: Repressurized
+Prefab
+RandomPatches
+ReAuth
+Refined Relocation
+Storage Drawers
+The Midnight
+
+Removed:
+
+Dirt2Path (in Quark)

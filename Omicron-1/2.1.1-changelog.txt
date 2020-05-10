@@ -1,0 +1,12 @@
+ADG Omicron 1 2.1.1 Changelog
+
+NOTE: in 2.2.0, we will be removing Moar Tinkers in favor of xXx_MoreToolMats_xXx (A safe fork of PlusTiC), so use this update to switch your tools over.
+
+Added:
+
+xXx_MoreToolMats_xXx
+
+Updated:
+
+Redstone Arsenal
+Storage Drawers

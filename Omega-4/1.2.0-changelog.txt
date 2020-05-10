@@ -1,0 +1,90 @@
+ADG Omega 4 1.2.0 Changelog
+
+Added:
+
+Quick Leaf Decay
+Quark
+Botania
+Building Gadgets
+Just Enough Resoruces
+Akashic Tome
+Flux Networks
+RFTools Control
+Charm
+The Midnight
+Lollipop
+Powah!
+JEI Integration
+Mantle
+Tinkers' Mechworks
+Curious Elytra
+Save My Stronghold
+Simply Tea
+Notes
+
+Updated:
+
+Forge to 31.1.77
+
+Absent by Design
+Additional Enchanted Miner
+Biomes O' Plenty
+BluePower
+CC: Tweaked
+Comforts
+Controlling
+Corail Tombstone
+Corail Woodcutter
+CraftTweaker
+Cucumber
+Curios
+Cyclic
+Easy Steel
+Engineer's' Decor
+Essentials
+Farming for Blockheads
+Gobber 2
+Industrial Agriculture
+Industrial Foregoing
+JAOPCA
+JourneyMap
+JEI
+Large Fluid Tank
+McJtyLib
+Mekanism
+Mekanism Generators
+Mekanism Tools
+Mining Gadgets
+Mixin Bootstrap
+Mystical Agriculture
+Nature's Aura
+NetherPortalFix
+Packing Tape
+Patchouli
+Powder Power
+Prefab
+RandomPatches
+ReAuth
+Refined Relocation
+Refined Storage
+Resourceful Tools
+RFTools Base
+RFTools Builder
+RFTools Power
+RFTools Storage
+RFTools Utility
+Silent Gear
+Silent Lib
+Silent's Gems
+Silent's Mechanisms
+Simple Storage Network
+The One Probe
+The Veggie Way
+Titanium
+XNet
+
+Removed:
+
+Fast Leaf Decay
+No Recipe Book
+Auraddons (Broken With Latest Nature's Aura)

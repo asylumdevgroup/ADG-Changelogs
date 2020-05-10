@@ -1,0 +1,55 @@
+ADG Omega 1 4.0.4 Changelog
+
+Added:
+
+Moar Tinkers
+
+Updated:
+
+/dank/null
+AbyssalCraft
+AbyssalCraft Integration
+Advanced Solars
+ArmorPlus
+Aroma1997Core
+Astral Sorcery
+Building Gadgets
+Chisel
+CoFH Core
+CoFH World
+Common Capabilities
+CTM
+Controlling
+Corail Tombstone
+CraftTweaker
+Cyclic
+CyclopsCore
+Hammer (Lib) Core
+Integrated Crafting
+Integrated Dynamics
+Integrated Tunnels
+JourneyMap
+LibraryEx
+Logistics Pipes
+Mystical World
+MysticalLib
+NetherEx
+NuclearCraft
+PneumaticCraft Repressurized
+Quark
+Random Patches
+Reborn Core
+Redstone Arsenal
+Redstone Flux
+Roots
+TechReborn
+Thermal Cultivation
+Thermal Dynamics
+Thermal Expansion
+Thermal Foundation
+Thermal Innovation
+Tinker I/O
+
+Removed:
+
+PlusTiC
