@@ -1,0 +1,11 @@
+ADG Omega 3 1.11.3 Changelog
+
+Updated:
+
+Forge to 28.2.19
+
+CC: Tweaked
+CraftTweaker
+Engineer's Decor
+JourneyMap
+PneumaticCraft: Repressurized

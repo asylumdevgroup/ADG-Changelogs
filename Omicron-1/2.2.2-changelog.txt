@@ -1,0 +1,11 @@
+ADG Omicron 1 2.2.2 Changelog
+
+Updated:
+
+FTB Ultimine
+JEI
+NuclearCraft
+
+Tweaked:
+
+Disabled Embers Copper, Lead, and Aluminum Ores (How did I not catch this sooner?)

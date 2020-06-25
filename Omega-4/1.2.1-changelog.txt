@@ -1,0 +1,21 @@
+ADG Omega 4 1.2.1 Changelog
+
+Updated:
+
+Botania
+Corail Tombstone
+CraftTweaker
+Gobber 2
+JEI Integration
+Mystical Agriculture
+Prefab
+Quark
+RFTools Control
+RFTools Storage
+RFTools Utility
+Simply Tea
+XNet
+
+Tweaks:
+
+Disabled Tinkers' Mechworks Worldgen

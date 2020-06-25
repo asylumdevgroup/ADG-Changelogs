@@ -1,0 +1,13 @@
+ADG Omicron 1 2.2.1 Changelog
+
+Added:
+
+FTB Ultimine
+
+Updated:
+
+Immersive Engineering
+
+Removed:
+
+OreExcavation

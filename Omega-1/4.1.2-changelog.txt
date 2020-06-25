@@ -1,0 +1,22 @@
+ADG Omega 1 4.1.2 Changelog
+
+Added:
+
+FTB Ultimine
+
+Updated:
+
+Astral Sorcery
+CraftTweaker
+Deep Mob Learning
+EnderCore
+Immersive Engineering
+Lazy AE2
+Logistics Pipes
+Reborn Core
+Rustic
+TechReborn
+
+Removed:
+
+OreExcavation

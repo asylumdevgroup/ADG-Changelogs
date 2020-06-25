@@ -1,0 +1,10 @@
+ADG Omega 3 1.11.4 Changelog
+
+Updated:
+
+Forge to 28.2.21
+
+AppleSkin
+Dark Utilities
+JEI
+PneumaticCraft: Repressurized

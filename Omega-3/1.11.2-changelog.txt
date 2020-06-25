@@ -1,0 +1,17 @@
+ADG Omega 3 1.11.2 Changelog
+
+Updated:
+
+CC: Tweaked
+Corail Tombstone
+CraftTweaker
+DruidCraft
+Ender Tanks
+Engineer's Decor
+Essentials
+Large Fluid Tank
+Platforms
+PneumaticCraft Repressurized
+ShetiPhian Core
+Silent's Gems
+Traverse

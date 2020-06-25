@@ -1,0 +1,13 @@
+ADG Omicron 1 Lighter Edition 1.0.12 Changelog
+
+Added:
+
+FTB Ultimine
+
+Updated:
+
+Forge to 2854
+
+Removed:
+
+OreExcavation

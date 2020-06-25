@@ -1,0 +1,17 @@
+ADG Omega 1 4.1.3 Changelog
+
+Updated:
+
+AbyssalCraft
+Corail Tombstone
+Cyclic
+Ender IO
+Ender IO Endergy
+FTB Ultimine
+Hammer Lib
+IC2 Classic
+JEI
+Lazy AE2
+Logistics Pipes
+NuclearCraft
+PneumaticCraft: Repressurized

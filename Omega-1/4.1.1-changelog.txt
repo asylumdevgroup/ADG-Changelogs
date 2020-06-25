@@ -1,0 +1,14 @@
+ADG Omega 1 4.1.1 Changelog
+
+Updated:
+
+/dank/null
+AbyssalCraft Integration
+Construct's Armory
+Logistics Pipes
+NetherEx
+NuclearCraft
+
+Downgraded:
+
+UniDict (To Fix Mekanism Integration)

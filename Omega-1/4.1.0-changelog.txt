@@ -1,0 +1,37 @@
+ADG Omega 1 4.1.0 Changelog
+
+Now Includes a Custom Menu and Loading Screen! (Thanks to CrankySupertoon)
+
+Added:
+
+TheBOMPlugin
+Lazy AE2
+LibNine
+Crafting Tweaks
+Custom Backgrounds
+Custom Loading Screen
+Loading Screens
+Project Intelligence
+Tinkers' Tool Leveling
+Tinkers' JEI
+Electrostatic Tinker's Toys
+
+Updated:
+
+/dank/null
+AbyssalCraft
+AbyssalCraft Integration
+ArmorPlus
+Corail Tombstone
+CraftTweaker
+CyclopsCore
+Integrated Dynamics
+
+Removed:
+
+Moar Tinkers (Change out your Tool Materials Before Updating!)
+
+Tweaked:
+
+Added Recipe for ADG Core, Extended Crafting Core
+Nerfed Electrostatic Tinker's Toys Modifier (Energy Cost)

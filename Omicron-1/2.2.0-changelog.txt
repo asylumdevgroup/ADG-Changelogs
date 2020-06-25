@@ -1,0 +1,23 @@
+ADG Omicron 1 2.2.0 Changelog
+
+Now Includes a Custom Menu and Loading Screen! (Thanks to CrankySupertoon)
+
+Added:
+
+RandomPatches
+Custom Backgrounds
+Custom Loading Screen
+Loading Screens
+
+Updated:
+
+FTB Quests
+NuclearCraft
+
+Downgraded:
+
+UniDict
+
+Removed:
+
+Moar Tinkers (Change out your Tool Materials Before Updating!)
