@@ -1,0 +1,8 @@
+ADG Omicron 2.2.4 Changelog
+
+Updated:
+
+FTB Quests
+JEI
+NuclearCraft
+Random Patches

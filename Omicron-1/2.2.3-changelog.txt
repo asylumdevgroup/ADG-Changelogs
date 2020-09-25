@@ -1,0 +1,12 @@
+ADG Omicron 1 2.2.3 Changelog
+
+Updated:
+
+Forge to 2854
+
+AppleSkin
+FTBLib
+FTB Quests
+FTB Ultimine
+FTB Utilities
+JEI

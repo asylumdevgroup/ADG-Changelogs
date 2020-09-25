@@ -1,0 +1,9 @@
+ADG Omega 4 2.0.1 Changelog
+
+Updated:
+
+PneumaticCraft: Repressurized
+
+Tweaked:
+
+Disabled Duplicate Ore Generation (Let me know via GitHub if I missed anything)

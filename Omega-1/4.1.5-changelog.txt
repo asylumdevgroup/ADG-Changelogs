@@ -1,0 +1,43 @@
+ADG Omega 1 4.1.5 Changelog
+
+Updated:
+
+AbyssalCraft
+Astral Sorcery
+Brandon's Core
+Building Gadgets
+Corail Tombstone
+CraftTweaker 2
+Cyclic
+Cyclops Core
+Draconic Evolution
+Embers Rekindled
+Flux Networks
+FTB Ultimine
+FTB Utilities
+Hammer Lib
+IC2 Classic
+Integrated Crafting
+Integrated Dynamics
+Integrated Terminals
+Integrated Tunnels
+Item Filters
+Just Enough HarvestCraft
+JEI
+Lazy AE2
+LibNine
+Logistics Pipes
+Mystical World
+MysticalLib
+NetherEx
+NuclearCraft
+Patchouli
+RandomPatches
+Roots
+Rustic
+Simply Jetpacks 2
+Solar Flux Reborn
+Soot
+Twilight Forest
+Tinker IO
+TorchMaster

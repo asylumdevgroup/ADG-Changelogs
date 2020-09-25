@@ -1,0 +1,31 @@
+ADG Omega 3 1.13.0 Changelog
+
+Added:
+
+Immersive Engineering
+Ender Storage
+
+Updated:
+
+Forge to 28.2.23
+
+Building Gadgets
+CC: Tweaked
+Chem Lib
+CraftTweaker
+Ender Tanks
+Engineer's Decor
+JAOPCA
+JEI
+LibraryEx
+NetherEx
+Platforms
+Random Enchants
+RandomPatches
+ShetiPhianCore
+
+Removed:
+
+Corail Pillar
+Corail Pillar: Quark Extension
+Corail Woodcutter

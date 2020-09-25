@@ -1,0 +1,15 @@
+ADG Omega 3 1.12.0 Changelog
+
+Added:
+
+Lollipop
+Powah
+Citadel
+Rats
+Apotheosis
+LibraryEx
+NetherEx
+
+Updated:
+
+Engineer's Decor

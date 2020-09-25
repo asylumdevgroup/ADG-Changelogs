@@ -1,0 +1,102 @@
+ADG Omega 4 2.0.0 Changelog
+
+This is the first of a series of major content updates meant to "clean up" and refine the modpack. These major updates will release every 2-3 weeks, with smaller updates twice a week between.
+
+NOTE 1: A New World is highly recommended for this update, as there are several new mods, as well as almost all of the existing mods updated.
+NOTE 2: Yes, I know, there are duplicate ores. I'll fix that in 2.0.1, coming next Wednesday.
+
+Added:
+
+Immersive Engineering
+Applied Energistics 2
+Bookshelf
+Dark Utilities
+ObserverLib
+Astral Sorcery
+LibraryEx
+NetherEx
+Citadel
+Rats
+Simple Farming
+Abnormal's Core
+Buzzier Bees
+Upgrade Aquatic
+YUNG's Better Caves
+CoFH Core
+Thermal Foundation
+Thermal Expansion
+Thermal Innovation
+Thermal Cultivation
+Thermal Locomotion
+
+Updated:
+
+Forge to 31.2.41
+
+Additional Enchanted Miner
+Apotheosis
+Aquaculture
+Botania
+Building Gadgets
+CC: Tweaked
+Chem Lib
+CodeChickenLib
+Comforts
+Controlling
+Corail Tombstone
+CraftTweaker
+Cucumber
+Culinary Construct
+Curios
+Cyclic
+Easy Steel and More
+Ender Storage
+Engineer's Decor
+Essentials
+Fast Workbench
+Flux Networks
+Gobber 2
+Industrial Agriculture Silent's Mechanisms
+EnderBags
+Iron Jetpacks
+JAOPCA
+JEI Integration
+JEI Tweaker
+JEI
+Large Fluid Tank
+Lollipop
+McJtyLib
+Mekanism
+Mekanism Generators
+Mekanism Tools
+Metal Barrels
+Nature's Aura
+Patchouli
+Placebo
+PneumaticCraft: Repressurized
+Powah
+RandomPatches
+Refined Storage
+Refined Storage Addons
+RFTools Base
+RFTools Builder
+RFTools Control
+RFTools Power
+RFTools Storage
+RFTools Utility
+Silent Gear
+Silent Lib
+Silent's Gems
+Silent's Mechanisms
+Solar Flux Reborn
+Stronghold Compass
+Techemistry
+The One Probe
+TorchMaster
+U Team Core
+Useful Backpacks
+XNet
+
+Removed:
+
+Corail Woodcutter

@@ -1,0 +1,7 @@
+ADG Omicron 1 Lighter Edition 1.0.16 Changelog
+
+Updated:
+
+FTB Ultimine
+FTB Utilities
+JEI

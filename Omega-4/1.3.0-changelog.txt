@@ -1,0 +1,83 @@
+ADG Omega 4 1.3.0 Changelog
+
+Added:
+
+FTB Ultimine
+EnderStorage
+CodeChickenLib
+Ceramics
+ModNameTooltip
+PneumaticCraft: Repressurized
+Culinary Construct
+
+Updated:
+
+Forge to 31.2.27
+
+Absent by Design
+Additional Enchanted Miner
+Apotheosis
+AppleSkin
+Aquaculture
+Better Advancements
+Biomes O' Plenty
+BluePower
+Botania
+Caelus
+CC: Tweaked
+Charm
+Comforts
+Controlling
+Cooking For Blockheads
+Corail Tombstone
+CraftingTweaks
+CraftTweaker
+Cucumber
+Curios
+Cyclic
+Easy Steel
+Engineer's Decor
+Essentials
+Farming for Blockheads
+Gobber 2
+Hammer Lib
+Iron Jetpacks
+JAOPCA
+JourneyMap
+JEI
+Large Fluid Tank
+McJtyLib
+Mekanism
+Mekanism Generators
+Mekanism Tools
+Mystical Agradditions
+Mystical Agriculture
+Elevator
+Patchouli
+Powder Power
+Quark
+Random Patches
+Refined Storage
+Refined Storage Addons
+Resourceful Tools
+RFTools Builder
+RFTools Storage
+RFTools Utility
+Save My Stronghold
+Silent Gear
+SilentLib
+Silent's Gems
+Silent's Mechanisms
+Simple Storage Network
+The Midnight
+The One Probe
+The Veggie Way
+Titanium
+TorchMaster
+U Team Core
+Waystones
+XNet
+
+Removed:
+
+OreExcavation

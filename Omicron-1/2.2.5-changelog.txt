@@ -1,0 +1,17 @@
+ADG Omicron 1 2.2.5 Changelog
+
+Updated:
+
+Embers Rekindled
+FTB Quests
+FTB Ultimine
+FTB Utilities
+Item Filters
+JEI
+NuclearCraft
+RandomPatches
+TorchMaster
+
+Quests:
+
+Fixed Several Quests to Ignore NBT (Thanks to BlosemBee on CurseForge for reporting)
