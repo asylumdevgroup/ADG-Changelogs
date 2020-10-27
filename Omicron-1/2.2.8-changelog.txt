@@ -1,0 +1,9 @@
+ADG Omicron 1 2.2.8 Changelog
+
+Updated:
+
+NuclearCraft
+
+Fixed:
+
+Tweaked some quest descriptions

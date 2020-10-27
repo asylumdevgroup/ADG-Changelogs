@@ -1,0 +1,21 @@
+ADG Omega 1 4.1.9 Changelog
+
+Added:
+
+FTB Quests
+
+Updated:
+
+AbyssalCraft
+CraftTweaker
+Cyclic
+FTB Ultimine
+Lazy AE2
+LibNine
+Logistics Pipes
+NuclearCraft
+Patchouli
+
+Removed:
+
+No Recipe Book (Quark adds this, so it's redundant)

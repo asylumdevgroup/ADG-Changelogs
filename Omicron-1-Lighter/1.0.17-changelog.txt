@@ -1,0 +1,6 @@
+ADG Omicron 1 Lighter Edition 1.0.17 Changelog
+
+Updated:
+
+UniDict
+WanionLib
