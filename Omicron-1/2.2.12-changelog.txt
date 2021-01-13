@@ -1,0 +1,8 @@
+ADG Omicron 1 2.2.12 Changelog
+
+Updated:
+
+Embers Rekindled
+FTB Quests
+FTB Utilities
+UniDict

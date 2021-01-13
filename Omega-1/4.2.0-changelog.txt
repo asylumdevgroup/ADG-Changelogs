@@ -1,0 +1,71 @@
+ADG Omega 1 4.2.0 Changelog
+
+The Quest Update is Finally Here, with 52 New Quests!
+
+WARNING: Any blocks you have from IC2 Classic + Addons will be removed in this update. MAKE A BACKUP!
+
+Added:
+
+FTB Quests
+EnderTweaker
+IndustrialCraft 2 (With Classic profile enabled in config)
+Advanced Solar Panels
+Advanced Solar Panels Patcher
+Gravitation Suite
+
+Updated:
+
+Actually Additions
+AbyssalCraft
+Ceramics
+CraftTweaker
+Corail Tombstone
+Cyclic
+Cyclops Core
+Embers Rekindled
+Ender IO
+Ender IO Endergy
+FTB Ultimine
+FTB Utilities
+Hammer Lib
+Integrated Dynamics
+Integrated Tunnels
+Lazy AE2
+LibNine
+LibraryEx
+Logistics Pipes
+NetherEx
+NuclearCraft
+Patchouli
+RandomPatches
+Rustic
+Tinker I/O
+
+Removed:
+
+IC2 Classic (Conflicts with Tech Reborn)
+Advanced Solars Classic
+Gravisuit Classic
+No Recipe Book (Quark adds this, so it's redundant)
+Equivalent Energistics (Buggy with latest ProjectE)
+
+Configs:
+
+Disabled Pam's HarvestCraft Vanilla Food Balancing
+Merged/Deduplicated Tech Reborn and IC2 Progression
+
+Recipes Changed:
+
+Quantum Compressor
+Black Iron Ingot
+Black Iron Frame
+Ender Ingot
+Ender Crafter
+
+Quests:
+
+Added Quest Chapters:
+    Minecraft Vanilla - 14 Quests
+    Storage - 15 Quests
+    Food and Farming - 6 Quests
+    Endgame - 17 Quests
