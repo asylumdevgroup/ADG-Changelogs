@@ -1,0 +1,9 @@
+ADG The Great Adventure 1.2.7 Changelog
+
+Added:
+
+Baubles (Since CB DepLoader is broken)
+
+Updated:
+
+CodeChickenCore
