@@ -1,0 +1,8 @@
+ADG Omicron 1 Lighter Edition 1.0.26 Changelog
+
+Now on Forge 14.23.5.2860
+
+Updated:
+
+UniDict
+WanionLib
