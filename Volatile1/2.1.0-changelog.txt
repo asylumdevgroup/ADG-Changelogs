@@ -1,0 +1,24 @@
+ADG Volatile 2.1.0 Changelog
+
+Added:
+
+Healer (Fixes Log4j Exploit)
+Controlling
+OpenBlocks Elevator
+Immersive Engineering
+Reliquary
+GraveStone Mod
+Tech Reborn
+
+Updated:
+
+ITLT
+
+Downgraded:
+
+Chisels and Bits
+
+Removed:
+
+Ender IO (No Longer on CurseForge for 1.8.9)
+Ender Core

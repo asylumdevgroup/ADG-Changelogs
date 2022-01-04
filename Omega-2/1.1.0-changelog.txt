@@ -1,0 +1,12 @@
+ADG Omega 2 1.1.0 Changelog - Final Update (For Real This Time)
+
+Now on Forge 25.0.223 - Log4J Patch
+
+Added:
+
+AppleSkin
+Controlling
+
+Updated:
+
+JEI
