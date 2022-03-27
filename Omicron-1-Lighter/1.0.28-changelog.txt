@@ -1,0 +1,9 @@
+ADG Omicron 1 Lighter Edition 1.0.28 Changelog
+
+Replaced:
+
+ReAuth -> OAuth
+
+Updated:
+
+WanionLib

@@ -1,0 +1,9 @@
+ADG Omicron 1 2.2.21 Changelog
+
+Replaced:
+
+ReAuth -> OAuth
+
+Updated:
+
+WanionLib
