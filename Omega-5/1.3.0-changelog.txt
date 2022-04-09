@@ -1,0 +1,154 @@
+ADG Omega 5 1.3.0 Changelog
+
+Added:
+
+Botany Pots
+Comforts
+Crafting Tweaks
+CropTopia
+Engineer's Decor
+Farming For Blockheads
+Hostile Neural Networks
+Iron Jetpacks
+Malum
+PneumaticCraft: Repressurized
+Thermal Innovation
+Supplementaries
+
+Updated:
+
+Forge to 36.2.33
+
+Absent By Design
+Adaptive Performance Tweaks
+AppleSkin
+Applied Energistics 2
+Aquaculture 2
+Architectury
+Ars Nouveau
+AttributeFix
+Atum 2
+Backpacked
+Beyond Earth (Space BossTools)
+Blueprint (AbnormalsCore)
+Bookshelf
+Botania
+Brandon's Core
+Cable Tiers
+CC: Tweaked
+Chisels and Bits
+Cloth Config API
+CodeChickenLib
+CoFH Core
+Collective
+Connected Glass
+Cosmetic Armor Reworked
+CraftTweaker
+Culinary Construct
+Curios API
+Cyclic
+Cyclops Core
+Dank Storage
+Dark Utilities
+Draconic Evolution
+Drippy Loading Screen
+Ears
+Enchantment Descriptions
+EnderStorage
+Engineer's Tools
+Enigmatic Graves
+Enigmatic Legacy
+Ensorcellation
+EvilCraft
+Expanded Storage
+Extra Storage
+Extreme Reactors 2
+Extreme Sound Muffler
+Fancy Menu
+Farmer's Delight
+Fast Leaf Decay
+Flux Networks
+Forbidden and Arcanus
+FTB Chunks
+Game Menu Mod Option
+Game Menu Remove GFARB
+GeckoLib
+Get It Together, Drops!
+Gobber
+Iceberg
+Immersive Petroleum
+Industrial Agriculture
+Integrated Dynamics
+Integrated Terminals
+JAOPCA
+JEI Tweaker
+JER Integration
+JourneyMap
+JourneyMap Integration
+Just Enough Items (JEI)
+Konkrete
+Kotlin for Forge
+KubeJS
+KubeJS Create
+KubeJS Immersive Engineering
+Lootr
+Magical Psi Redux
+Mahou Tsukai
+Mana and Artifice
+Mantle
+McJtyLib
+Mekanism
+Mekanism Additions
+Mekanism Generators
+Mekanism Matter
+Mekanism Tools
+Modular Powersuits
+More Overlays Updated
+Mystical World
+NinjaPhenix's Container Library
+Numina
+OAuth
+Obfuscate
+Occultism
+Optifine Capes
+Options Enforcer
+Passive Shield
+Polymorph
+Pretty Pipes
+Productive Bees
+Pyromancer
+Quark
+Refined Pipes
+Refined Storage
+Reliquary
+RFTools Base
+RFTools Builder
+RFTools Control
+RFTools Dimensions
+RFTools Power
+RFTools Storage
+RFTools Utility
+RS Infinity Booster
+Runelic
+Scalable Cat's Force
+SignTastic
+Silent Gear
+Simple Storage Network
+Simply Jetpacks 2
+Sophisticated Backpacks
+Storage Drawers
+SuperMartijn642's Core Lib
+Tetra
+The Afterlight
+The Endergetic Expansion
+The One Probe
+Thermal Expansion
+Thermal Foundation
+TiCBC - Better Tinkers' Compat
+Tinkers' Construct
+Trash Cans
+Valhelsia Core
+Wireless Chargers
+Woot
+XNet
+XNet Gases
