@@ -1,0 +1,34 @@
+ADG Presents Gamer City 1.4.0 Changelog
+
+Added:
+
+Healer (Fixes Log4j Exploit)
+Controlling
+Waystones
+Nature's Compass
+ReAuth (Now with MS Account Support)
+Crafting Tweaks
+TorchMaster
+BiblioCraft
+Bookshelf
+Dark Utilities
+MalisisDoors
+Farming For Blockheads
+MoreOverlays
+Reliquary
+Mod Name Tooltip
+Roguelike Dungeons
+GraveStone Mod
+Rustic
+
+Updated:
+
+MouseTweaks
+
+Downgraded:
+
+Chisels and Bits
+
+Config:
+
+Disabled Most BWM Hardcore Modules

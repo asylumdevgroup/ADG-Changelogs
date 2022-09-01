@@ -1,0 +1,15 @@
+ADG Omicron 1 2.2.23 Changelog
+
+Replaced:
+
+AE2 -> AE2 Unofficial Extended Life
+
+Updated:
+
+Custom Loading Screen
+NuclearCraft
+OAuth
+
+Removed:
+
+Just Enough Energistics

@@ -1,0 +1,13 @@
+ADG Omicron 1 Lighter Edition 1.0.30 Changelog
+
+Replaced:
+
+AE2 -> AE2 Unofficial Extended Life
+
+Updated:
+
+OAuth
+
+Removed:
+
+Just Enough Energistics
