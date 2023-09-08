@@ -1,0 +1,12 @@
+ADG Omicron 1 2.2.27 Changelog
+
+Added:
+
+SerializationIsBad
+
+Updated:
+
+AE2 Unofficial Extended Life
+Placebo
+Storage Drawers
+WanionLib

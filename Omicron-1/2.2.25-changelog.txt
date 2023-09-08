@@ -1,0 +1,14 @@
+ADG Omicron 1 2.2.25 Changelog
+
+Updated:
+
+AE2 Unofficial Extended Life
+ArchitectureCraft
+FoamFix
+JAOPCA
+JEI
+
+Removed:
+
+AE2 Wireless Terminal Library (Now in AE2 Unofficial Extended Life)
+Wireless Crafting Terminal (Now in AE2 Unofficial Extended Life)

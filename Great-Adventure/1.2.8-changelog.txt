@@ -1,0 +1,13 @@
+ADG The Great Adventure 1.2.8 Changelog
+
+Added:
+
+Controlling
+Crafting Tweaks
+Healer (Log4j Fix)
+Nature's Compass
+
+Updated:
+
+JourneyMap
+ReAuth

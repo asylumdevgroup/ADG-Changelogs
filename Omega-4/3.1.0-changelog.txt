@@ -1,0 +1,55 @@
+ADG Omega 4 3.1.0 Changelog
+
+Added:
+
+FancyMenu
+SerializationIsBad
+DEUF
+AttributeFix
+AI Improvements
+Bad Wither No Cookie - Reloaded
+DungeonCrawl
+Construction Wand
+Advancement Plaques
+Modular Routers
+Rechiseled
+Corail Woodcutter
+Productive Bees
+Savage and Ravage
+Bigger Reactors
+Integrated NBT
+Occultism
+Psi
+SuperMartijn642 Config Lib
+Fusion
+OpenLoader
+
+Updated:
+
+Forge to 31.2.57
+
+CC: Tweaked
+CodeChickenLib
+End Reborn
+Kotlin for Forge
+LibraryEx
+Mixin Bootstrap
+Placebo
+Platforms
+ReAuth (Now Supports MS Accounts)
+ShetiPhian Core
+SuperMartijn642 Core Lib
+Simple Storage Network
+The Midnight
+Trash Cans
+U Team Core
+
+Quests:
+
+Now at 266 Total Quests
+Added Transportation Chapter
+Added Storage Solutions Chapter
+Added Resource Collection Chapter
+Added Silents Mechanisms Chapter
+Added Mekanism Chapter
+Added Refined Storage and AE2 Chapter

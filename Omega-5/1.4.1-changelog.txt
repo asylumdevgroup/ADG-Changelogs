@@ -1,0 +1,13 @@
+ADG Omega 5 1.4.1 Changelog
+
+Added:
+
+FerriteCore
+ModernFix
+Shutup Experimental Settings
+
+Updated:
+
+CraftTweaker
+Enchantment Descriptions
+Wormhole (Portals)

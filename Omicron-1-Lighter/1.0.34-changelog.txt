@@ -1,0 +1,12 @@
+ADG Omicron 1 Lighter Edition 1.0.34 Changelog
+
+Added:
+
+SerializationIsBad
+
+Updated:
+
+AE2 Unofficial Extended Life
+Placebo
+Storage Drawers
+WanionLib

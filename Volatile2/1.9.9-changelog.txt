@@ -1,0 +1,11 @@
+ADG Volatile 2 1.9.9 Changelog
+
+Added:
+
+SerializationIsBad
+
+Updated:
+
+BdLib
+Ender IO
+Ender Core
