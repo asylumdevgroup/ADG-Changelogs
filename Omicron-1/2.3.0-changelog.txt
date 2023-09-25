@@ -1,0 +1,29 @@
+ADG Omicron 1 2.3.0 Changelog
+
+Added:
+
+CensoredASM
+MixinBooter
+ConfigAnytime
+VintageFix
+AppleSkin
+Controlling
+Had Enough Items
+Mouse Tweaks Unofficial
+Universal Tweaks
+Immersive Technology
+
+Updated:
+
+AE2 Unofficial Extended Life
+SerializationIsBad
+xXx_MoreToolMats_xXx
+
+Removed:
+
+FoamFix
+Just Enough Items
+MouseTweaks
+Quick Leaf Decay
+Toast Control
+Immersive Tech

@@ -1,0 +1,26 @@
+ADG Omicron 1 Lighter Edition 1.1.0 Changelog
+
+Added:
+
+CensoredASM
+MixinBooter
+ConfigAnytime
+VintageFix
+AppleSkin
+Controlling
+Had Enough Items
+Mouse Tweaks Unofficial
+Universal Tweaks
+
+Updated:
+
+AE2 Unofficial Extended Life
+SerializationIsBad
+
+Removed:
+
+FoamFix
+Just Enough Items
+MouseTweaks
+Quick Leaf Decay
+Toast Control

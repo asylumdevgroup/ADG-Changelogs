@@ -1,0 +1,58 @@
+ADG Omega 6 1.1.0 Changelog
+
+Added:
+
+Advanced Peripherals
+AE2 Things
+ArmorPlus
+Ars Creo
+Ars Elemental
+Assembly Line Machines
+Beyond Earth
+Beyond Earth Giselle Addon
+Cable Tiers
+Druidcraft
+Energized Power
+Entangled
+Factorium
+Gauges and Switches
+Industrial Reborn
+LavaTech
+Little Contraptions
+Little Logistics
+Modonomicon
+More Immersive Wires
+Occultism
+PlantTech 2
+Portality
+Refined Storage Requestify
+Silent's Gems
+Simple Magnets
+SmartBrainLib
+Snad
+Thermal Systeams
+Theurgy
+Tom's Simple Storage
+Universal Grid
+Voluminous Energy
+Wormhole (Portals)
+XNet Gases
+
+Updated:
+
+CoFH Core
+Ensorcellation
+JAOPCA
+Mana and Artifice
+Redstone Arsenal
+Thermal Cultivation
+Thermal Dynamics
+Thermal Expansion
+Thermal Foundation
+Thermal Innovation
+Thermal Integration
+Thermal Locomotion
+
+Configs:
+
+Disabled More Duplicate Ores

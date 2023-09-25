@@ -1,0 +1,7 @@
+ADG Omicron 1 Lighter Edition 1.1.1 Changelog
+
+Updated:
+
+CensoredASM
+MixinBooter
+VintageFix

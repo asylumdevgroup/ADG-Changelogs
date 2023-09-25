@@ -1,0 +1,35 @@
+ADG Omega 5 1.5.0 Changelog
+
+Added:
+
+Additional Enchanted Miner
+AE2 Fluid Crafting Rework
+Alchemistry
+AlchemyLib
+Ars Creo
+Auraddons
+Beyond Earth: Giselle Addon
+Charging Gadgets
+Chem Lib
+Embeddium
+Exchangers
+Refined Storage Requestify
+Simple Generators
+Simple Magnets
+Techemistry
+ValkyrieLib
+
+Updated:
+
+Enchantment Descriptions
+
+Removed:
+
+Halogen (Sodium for Forge)
+CraftTweaker
+JEI Tweaker
+
+Configs:
+
+Moved all Scripts to KubeJS
+Disabled Quark Matrix Enchanting
