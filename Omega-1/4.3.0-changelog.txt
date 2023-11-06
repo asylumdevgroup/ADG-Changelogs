@@ -1,0 +1,90 @@
+ADG Omega 1 4.3.0 Changelog
+
+SECURITY AND PERFORMANCE PATCH
+
+Next Update will be 5.0.0, and will break worlds!
+
+Updated Forge to Version 2860
+
+Added:
+
+CensoredASM
+MixinBooter
+/dank/null/no_RCE
+VintageFix
+AE2 Unofficial Extended Life
+Had Enough Items
+MouseTweaks Unofficial
+Crafting Tweaks Unofficial
+Extended Crafting: Nomifactory Edition
+Gravitation Suite Patcher
+SteamWorldPatcher
+Roughly Enough IDs
+SerializationIsBad
+
+Updated:
+
+AbyssalCraft
+AbyssalCraft Integration
+AdvSolarPatch
+ArchitectureCraft
+B.A.S.E.
+BdLib
+Botania
+BiblioCraft
+Brandon's Core
+ContentTweaker
+Controlling
+Corail Tombstone
+CraftTweaker
+CustomLoadingScreen
+Cyclic
+Draconic Evolution
+Embers Rekindled
+EnderTweaker
+Ender IO
+Ender IO Endergy
+EnderCore
+Exchangers
+FastWorkbench
+Hammer Lib
+Immersive Petroleum
+IndustrialCraft 2
+JAOPCA
+LibraryEx
+LibNine
+Logistics Pipes
+ModTweaker
+MTLib
+Mystical World
+Mystical Lib
+NetherEx
+NuclearCraft
+OpenComputers
+PackagedExCrafting
+PackagedAuto
+ReAuth
+RebornCore
+Roots
+Simple Sponge
+Simply Jetpacks 2
+Storage Drawers
+Tesla Core Lib
+TorchMaster
+UniDict
+WanionLib
+Wireless Utilities
+xXx_MoreToolMats_xXx
+
+Removed:
+
+VanillaFix
+/dank/null
+Applied Energistics 2
+Just Enough Items
+JustEnoughIDs
+FoamFix
+FastFurnace
+Crafting Tweaks
+MouseTweaks
+Extended Crafting

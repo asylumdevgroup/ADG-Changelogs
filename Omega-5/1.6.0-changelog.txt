@@ -1,0 +1,21 @@
+ADG Omega 5 1.6.0 Changelog
+
+NOTICE: PLEASE REMOVE ALL ITEMS FROM EXPANDED STORAGE CHESTS BEFORE UPDATING, THE MOD HAS BEEN REMOVED DUE TO NO LONGER BEING ON CURSEFORGE.
+
+Added:
+
+Iron Chests
+
+Updated:
+
+BlockCarpentry
+CraftPresence
+Embeddium
+ModernFix
+Simple Magnets
+Supplementaries
+
+Removed:
+
+Expanded Storage (No Longer on CurseForge)
+NinjaPhenix Container Library (No Longer on CurseForge)

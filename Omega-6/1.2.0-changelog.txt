@@ -1,0 +1,39 @@
+ADG Omega 6 1.2.0 Changelog
+
+NOTICE: PLEASE REMOVE ALL ITEMS FROM EXPANDED STORAGE CHESTS BEFORE UPDATING, THE MOD HAS BEEN REMOVED DUE TO NO LONGER BEING ON CURSEFORGE.
+
+Added:
+
+Sophisticated Storage
+
+Updated:
+
+Adaptive Performance Tweaks (Bundle)
+Adaptive Performance Tweaks: Core
+Adaptive Performance Tweaks: Gamerules
+Adaptive Performance Tweaks: Items
+Adaptive Performance Tweaks: Player
+Adaptive Performance Tweaks: Spawn
+CoFH Core
+CraftPresence
+Create
+Crossroads
+Cucumber
+Cyclops Core
+FTB Backups 2
+Immersive Petroleum
+Jade
+JAOPCA
+KubeJS Create
+KubeJS Thermal
+Lootr
+ModernFix
+Rechiseled
+Simple Magnets
+Sophisticated Backpacks
+Sophisticated Core
+Structure Gel API
+
+Removed:
+
+Expanded Storage

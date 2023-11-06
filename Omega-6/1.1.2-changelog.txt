@@ -1,0 +1,17 @@
+ADG Omega 6 1.1.2 Changelog
+
+Updated:
+
+Corail Tombstone
+Ensorcellation
+FTB Backups 2
+FTB Ultimine
+Mana and Artifice
+PneumaticCraft: Repressurized
+Rechiseled
+SuperMartijn642 Core Lib
+Tesseract
+Thermal Expansion
+Thermal Foundation
+Titanium
+Totemic

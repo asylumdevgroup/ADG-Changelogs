@@ -1,0 +1,11 @@
+ADG Omega 6 1.1.3 Changelog
+
+Updated:
+
+Brandon's Core
+Draconic Evolution
+Integrated Crafting
+Integrated Dynamics
+ModernFix
+Thermal Foundation
+Titanium

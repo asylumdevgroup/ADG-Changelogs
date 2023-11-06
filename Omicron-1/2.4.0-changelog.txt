@@ -1,0 +1,20 @@
+ADG Omicron 1 2.4.0 Changelog
+
+Added:
+
+Alfheim
+Inventory Bogo Sorter
+Modular UI
+Quark: RotN Edition
+Red Core
+
+Updated:
+
+AE2 Unofficial Extended Life
+CensoredASM
+VintageFix
+
+Removed:
+
+Inventory Tweaks
+Quark
