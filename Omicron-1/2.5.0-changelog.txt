@@ -1,0 +1,16 @@
+ADG Omicron 1 2.5.0 Changelog (WIP)
+
+NOTE: PLEASE DISASSEMBLE ALL IMMERSIVE TECHNOLOGY MULTIBLOCKS BEFORE UPDATING, THEY WILL DISAPPEAR IF YOU DON'T.
+
+Updated:
+
+Immersive Technology
+
+Removed (Unused Dependencies):
+
+p455w0rd's Library
+Placebo
+
+Other:
+
+Updated Menu and Loading Screen

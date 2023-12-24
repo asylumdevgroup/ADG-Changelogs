@@ -1,0 +1,24 @@
+ADG Omega 6 1.2.2 Changelog
+
+Updated:
+
+AE2 Things
+CB Multipart
+Cloth Config API
+Connected Glass
+Crafting Tweaks
+CraftPresence
+Draconic Evolution
+Oh the Biomes You'll Go
+Project Red Core
+Project Red Expansion
+Project Red Exploration
+Project Red Illumination
+Project Red Integration
+Project Red Transmission
+RFTools Utility
+Sophisticated Backpacks
+Sophisticated Core
+Sophisticated Storage
+SuperMartijn642 Core Lib
+Waystones

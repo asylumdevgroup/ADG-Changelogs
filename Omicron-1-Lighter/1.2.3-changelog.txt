@@ -1,0 +1,13 @@
+ADG Omicron 1 Lighter Edition 1.2.3 Changelog
+
+Updated:
+
+Alfheim
+Inventory Bogo Sorter
+Modular UI
+Universal Tweaks
+
+Configs:
+
+Disabled Recipe Book
+Enabled Startup Sound

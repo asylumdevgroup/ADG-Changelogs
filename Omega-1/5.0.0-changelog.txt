@@ -1,0 +1,99 @@
+ADG Omega 1 5.0.0 Changelog
+
+Added:
+
+Actually Additions Fluxified
+Advanced Machines
+Advanced Machines Patcher
+Advancement Plaques
+AE Additions: Extra Cells 2 Fork
+AE2 Fluid Crafting Rework
+Alfheim
+Animus
+AppleCore
+Baubley Heart Canisters
+Bewitchment
+Comforts
+Dark Utilities
+Deep Blood Evolution
+Deep Mob Evolution
+Electroblob's Wizardry
+Ender IO Fluxified
+Engineer's Decor
+Equivalent Energistics Patched
+IC2 Patcher
+Immersive Technology
+Inventory Bogo Sorter
+Logistics Bridge Remake
+Lootr
+Mekanism Community Edition
+Mekanism Community Edition Generators
+Mekanism Community Edition Tools
+Mekanism Fluxified
+Modular UI
+More Libs
+More Plates
+Nature's Compass
+Neeve's AE2 Extended Life Additions
+PackagedAuto
+PackagedExCrafting
+Patchouli ROFL Edition
+Psi
+Psio
+Quark: RotN Edition
+Red Core
+Sledgehammer
+Spice of Life Carrot Edition
+The One Probe Community Edition
+Universal Tweaks
+Xtones
+YARCF
+
+Updated:
+
+AbyssalCraft
+AE2 Unofficial Extended Life
+CensoredASM
+Had Enough Items
+HammerLib
+JAOPCA
+Logistics Pipes
+MixinBooter
+VintageFix
+
+Removed:
+
+AE2 Wireless Terminal Library
+Deep Mob Learning
+Deep Mob Learning - Blood Magic Addon
+Ding
+Extra Cells 2
+FastWorkbench
+IKWID
+Inventory Tweaks
+Just Enough Energistics
+Mekanism
+Mekanism Generators
+Mekanism Tools
+Patchouli
+Quark
+The One Probe
+Toast Control
+Wireless Crafting Terminal
+
+Configs:
+
+Disabled Recipe Book
+Enabled Startup Sound
+
+Scripts:
+
+
+
+Quests:
+
+Added Prodigy Tech Chapter
+Added Actually Additions Chapter
+Added Ender IO Chapter
+Expanded Endgame Chapter
+Added Rewards to most Quests

@@ -1,0 +1,32 @@
+ADG Omega 6 1.2.1 Changelog
+
+Updated:
+
+AE2 Things
+Alex's Abnormalities
+Cable Tiers
+Connected Glass
+CraftPresence
+CyclopsCore
+EvilCraft
+Fusion
+Integrated Dynamics
+Integrated Terminals
+Mahou Tsukai
+Mana and Artifice
+ModernFix
+Oh The Biomes You'll Go
+Platforms
+PolyLib
+PneumaticCraft Repressurized
+Project Red Core
+Project Red Expansion
+Project Red Exploration
+Project Red Illumination
+Project Red Integration
+Project Red Transmission
+Refined Storage
+ShetiPhian Core
+Sophisticated Backpacks
+Sophisticated Core
+Sophisticated Storage
