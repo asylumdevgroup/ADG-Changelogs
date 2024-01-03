@@ -1,0 +1,19 @@
+ADG Omega 6 1.2.3 Changelog
+
+Updated:
+
+Forge to 40.2.17
+
+Common Capabilities
+Connected Glass
+Curios API
+Integrated Crafting
+Integrated Dynamics
+Item Collectors
+JAOPCA
+Mahou Tsukai
+ModernFix
+More Immersive Wires
+Sophisticated Backpacks
+Sophisticated Core
+Sophisticated Storage

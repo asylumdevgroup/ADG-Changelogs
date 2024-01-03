@@ -1,0 +1,15 @@
+ADG Omega 5 1.6.3 Changelog
+
+Updated:
+
+Forge to 36.2.41
+
+Connected Glass
+Controlling
+CraftPresence
+Embeddium
+Industrial Foregoing
+Mahou Tsukai
+ModernFix
+Supplementaries
+Wesley's Roguelike Dungeons
