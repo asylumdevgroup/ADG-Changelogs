@@ -8,6 +8,7 @@ Advanced Machines Patcher
 Advancement Plaques
 AE Additions: Extra Cells 2 Fork
 AE2 Fluid Crafting Rework
+AE2 Stuff Unofficial
 Alfheim
 Animus
 AppleCore
@@ -54,6 +55,7 @@ Updated:
 AbyssalCraft
 AE2 Unofficial Extended Life
 CensoredASM
+CraftTweaker
 Had Enough Items
 HammerLib
 JAOPCA
@@ -63,6 +65,7 @@ VintageFix
 
 Removed:
 
+AE2 Stuff
 AE2 Wireless Terminal Library
 Deep Mob Learning
 Deep Mob Learning - Blood Magic Addon
@@ -88,7 +91,7 @@ Enabled Startup Sound
 
 Scripts:
 
-
+Added Recipes for Most Creative Items
 
 Quests:
 
