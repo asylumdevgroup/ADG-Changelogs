@@ -1,0 +1,10 @@
+ADG Omega 6 1.2.4 Changelog
+
+Updated:
+
+Adaptive Performance Tweaks (all Modules)
+Additional Enchanted Miner
+JAOPCA
+Mahou Tsukai
+ModernFix
+Project Red (all Modules)
