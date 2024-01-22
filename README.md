@@ -7,4 +7,3 @@ This repository contains changelogs for all ADG Modpacks. It will also include c
 
 * [ADG Omega 4 3.2.0](Omega-4/3.2.0-changelog.txt): Projected Release Mid February 2024
 * [ADG Omega 5 2.0.0](Omega-5/2.0.0-changelog.txt): Projected Release Late February 2024
-* [ADG Omicron 1 2.5.0](Omicron-1/2.5.0-changelog.txt): Projected Release Late January 2024

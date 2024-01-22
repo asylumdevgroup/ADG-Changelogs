@@ -1,0 +1,44 @@
+ADG Volatile 2 1.10.0 Changelog
+
+Here's one more MASSIVE update for this ancient modpack. At this point, similar to Volatile 1 for 1.8.9, This modpack will become a general-purpose Kitchen Sink Pack, showcasing the "forgotten" era of 1.10.2.
+
+Added:
+
+AbyssalCraft
+AbyssalCraft Integration
+AI Improvements
+Applied Energistics 2
+Astral Sorcery
+Bad Wither No Cookie - Reloaded
+Blood Arsenal
+Calculator
+Clumps
+CodeChickenLib
+Common Capabilities
+Cyclic
+Cyclops Core
+Embers
+EvilCraft
+Flux Networks
+FTB Ultimine
+Integrated Dynamics
+Integrated Tunnels
+Nature's Compass
+p455w0rd's Library
+Redstone Arsenal
+RFTools Control
+Roots
+SonarCore
+Super Circuit Maker
+Thermal Expansion
+Thermal Dynamics
+Torcherino
+Torchmaster
+Waystones
+Wireless Crafting Terminal
+XNet
+
+Removed:
+
+BetterFPS
+Ore Excavation

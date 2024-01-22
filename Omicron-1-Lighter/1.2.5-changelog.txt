@@ -1,0 +1,14 @@
+ADG Omicron 1 Lighter Edition 1.2.5 Changelog
+
+Added:
+
+Startup Timer
+
+Updated:
+
+AE2 Unofficial Extended Life
+VintageFix
+
+Removed:
+
+Placebo

@@ -1,16 +1,15 @@
-ADG Omicron 1 2.5.0 Changelog (WIP)
+ADG Omicron 1 2.5.0 Changelog
 
 NOTE: PLEASE DISASSEMBLE ALL IMMERSIVE TECHNOLOGY MULTIBLOCKS BEFORE UPDATING, THEY WILL DISAPPEAR IF YOU DON'T.
 
 Updated:
 
+AE2 Unofficial Extended Life
 Immersive Technology
+JAOPCA
+VintageFix
 
 Removed (Unused Dependencies):
 
 p455w0rd's Library
 Placebo
-
-Other:
-
-Updated Menu and Loading Screen

@@ -1,0 +1,19 @@
+ADG Omega 7 1.0.2 Changelog
+
+Updated:
+
+Additional Enchanted Miner
+Apotheotic Additions
+Ars Elemental
+Ars Nouveau
+Botarium
+Cognition
+Curios API
+Deep Aether
+HammerLib
+Industrial Foregoing
+Macaw's Fences and Walls
+Macaw's Furniture
+RFTools Builder
+The Bumblezone
+Totemic
