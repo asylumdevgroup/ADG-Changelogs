@@ -3,6 +3,23 @@ ADG Omega 4 3.2.0 Changelog
 THE FINAL CONTENT UPDATE IS HERE AT LAST!
 ONLY BUGFIXES AND MOD UPDATES FROM HERE ON OUT
 
+Added:
+
+Assembly Line Machines
+Entangled
+Farmer's Delight
+IAP Botania
+IAP Powah
+Item Collectors
+Polymorph
+Pretty Pipes
+Simple Magnets
+Spice of Life Carrot Edition
+Tesseract
+Tom's Simple Storage
+Wireless Chargers
+Wormhole (Portals)
+
 Updated:
 
 Fusion
