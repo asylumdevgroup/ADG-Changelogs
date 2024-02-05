@@ -1,0 +1,6 @@
+ADG Omicron 1 Lighter Edition 1.2.7 Changelog
+
+Updated:
+
+ConfigAnytime
+MixinBooter

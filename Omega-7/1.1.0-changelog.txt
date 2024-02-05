@@ -1,0 +1,50 @@
+ADG Omega 7 1.1.0 Changelog
+
+Added:
+
+AIOT Botania
+Cosmos Library
+Crafting on a Stick
+Dimensional Pockets II
+Dustrial Decor
+EverlastingAbilities
+Goblin Traders
+Ice and Fire
+L_Ender's Cataclysm
+Let's Do Meadow
+Macaw's Paintings
+Mana and Artifice
+Melody
+Mystical Agriculture Tiered Crystals
+Packet Fixer
+Pocket Storage
+Refined Polymorphism
+Relics
+Rings of Ascension
+Simply Swords
+Tempad
+Void Totem
+
+Updated:
+
+Botanic Additions
+Chisels and Bits
+Create Crafts and Additions
+Create New Age
+Curios API
+Cyclops Core
+Deep Aether
+Embeddium
+FancyMenu
+Friends&Foes
+Integrated Dynamics
+Lootr
+Macaw's Roofs
+ModernFix
+Sophisticated Backpacks
+Sophisticated Core
+Sophisticated Storage
+Supplementaries
+Tetranomicon
+The Aether
+The Bumblezone

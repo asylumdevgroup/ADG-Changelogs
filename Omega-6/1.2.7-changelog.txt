@@ -1,0 +1,14 @@
+ADG Omega 6 1.2.7 Changelog
+
+Updated:
+
+Dank Storage
+FancyMenu
+Jade
+Just Enough Items
+Lootr
+ModernFix
+Sophisticated Backpacks
+Sophisticated Core
+Sophisticated Storage
+Tetranomicon
