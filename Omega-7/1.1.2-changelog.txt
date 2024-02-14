@@ -1,0 +1,29 @@
+ADG Omega 7 1.1.2 Changelog
+
+Updated:
+
+Forge to 43.3.8
+
+Advanced Peripherals
+Architectury API
+Artifacts
+Corail Tombstone
+Create Crafts and Additions
+Create Diesel Generators
+Embeddium
+EMI
+Entangled
+ForceCraft
+Integrated Dynamics
+Integrated Tunnels
+Just Enough Items
+KubeJS
+Packet Fixer
+Placebo
+Rechiseled Create
+Sophisticated Backpacks
+Sophisticated Core
+Sophisticated Storage
+SuperMartijn642's Core Lib
+Tetranomicon
+The Bumblezone

@@ -1,0 +1,14 @@
+ADG Omega 6 1.2.8 Changelog
+
+Updated:
+
+Artifacts
+Botany Trees
+CraftPresence
+Entangled
+Integrated Dynamics
+Sophisticated Backpacks
+Sophisticated Core
+Sophisticated Storage
+SuperMartijn642's Core Lib
+Tetranomicon
