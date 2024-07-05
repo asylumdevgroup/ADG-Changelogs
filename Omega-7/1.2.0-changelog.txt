@@ -1,0 +1,82 @@
+ADG Omega 7 1.2.0 Changelog
+
+Updated:
+
+Forge to 43.3.9
+
+Abnormals Delight
+Advanced Solars Classic
+AeroBlender
+Almost Unified
+Apotheosis
+Apotheotic Additions
+Architectury API
+Ars Nouveau
+Atmospheric
+AttributeFix
+Botarium
+ChemLib
+Corail Tombstone
+CraftPresence
+Create Central Kitchen
+Create Goggles
+Create Ore Excavation
+Create Steam n Rails
+Cyclic
+Easy Steel and More
+Easy Villagers
+Embeddium
+EMI
+Energized Power
+Environmental
+Evilcraft
+ExtendedAE
+FancyMenu
+Friends and Foes
+FTB Essentials
+Fusion
+Gobber
+Gravisuit Classic
+IC2 Classic
+IC2C UU-Matter
+Immersive Engineering
+Iron's Spells and Spellbooks
+JAOPCA
+JourneyMap
+KubeJS
+Lootr
+Mahou Tsukai
+Mob Grinding Utils
+ModernFix
+Mystical Agriculture
+Occultism
+Oh the Biomes You'll Go
+PacketFixer
+Placebo
+Polymorph
+Powder Power
+Project Red Core
+Project Red Expansion
+Project Red Exploration
+Project Red Fabrication
+Project Red Illumination
+Project Red Integration
+Project Red Transmission
+Refined Polymorphism
+Relics
+Sophisticated Backpacks
+Sophisticated Core
+Sophisticated Storage
+Super Factory Manager
+Supplementaries
+The Aether
+The Aether Redux
+The Bumblezone
+Titanium
+Tom's Simple Storage
+Totemic
+Traveler's Backpack
+Twilight's Flavors and Delight
+U Team Core
+UtilitiX
+Voluminous Energy

@@ -1,0 +1,13 @@
+ADG Omega 5 1.6.11 Changelog
+
+Updated:
+
+CraftPresence
+Embeddium
+Enchantment Descriptions
+Industrial Foregoing
+ModernFix
+More Overlays Updated
+Simple Magnets
+Wireless Chargers
+Wormhole (Portals)

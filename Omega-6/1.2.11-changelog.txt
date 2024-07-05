@@ -1,0 +1,23 @@
+ADG Omega 6 1.2.11 Changelog
+
+Updated:
+
+AttributeFix
+CraftPresence
+Cyclic
+Cyclops Core
+Entangled
+FancyMenu
+Industrial Foregoing
+Integrated Dynamics
+Integrated Terminals
+Integrated Tunnels
+Item Collectors
+ModernFix
+Rechiseled
+RFTools Dimensions
+ShetiPhianCore
+Simple Magnets
+Sophisticated Core
+Wireless Chargers
+Wormhole (Portals)

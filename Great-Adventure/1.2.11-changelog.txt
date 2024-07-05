@@ -1,0 +1,7 @@
+ADG The Great Adventure 1.2.11 Changelog
+
+Updated:
+
+JourneyMap
+SerializationIsBad
+The Twilight Forest

@@ -1,0 +1,5 @@
+ADG Volatile 2.1.7 Changelog
+
+Updated:
+
+SerializationIsBad

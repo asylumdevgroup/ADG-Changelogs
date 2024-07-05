@@ -1,0 +1,17 @@
+ADG Omega 6 1.2.12 Changelog
+
+Updated:
+
+Forge to 40.2.21
+
+Additional Enchanted Miner
+Corail Tombstone
+CraftPresence
+Ding
+Elytra Slot
+FTB Chunks
+JAOPCA
+Lootr
+ModernFix
+Moonlight Lib
+Totemic

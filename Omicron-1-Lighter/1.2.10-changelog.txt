@@ -1,0 +1,5 @@
+ADG Omicron 1 Lighter Edition 1.2.10 Changelog
+
+Updated:
+
+SerializationIsBad

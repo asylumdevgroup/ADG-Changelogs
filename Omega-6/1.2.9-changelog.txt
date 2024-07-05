@@ -1,0 +1,24 @@
+ADG Omega 6 1.2.9 Changelog
+
+Updated:
+
+Architectury API
+ChemLib
+Corail Tombstone
+CraftPresence
+Drippy Loading Screen
+FancyMenu
+Fusion
+JAOPCA
+JourneyMap
+Lootr
+Mahou Tsukai
+Mantle
+ModernFix
+SerializationIsBad
+Sophisticated Backpacks
+Sophisticated Core
+Sophisticated Storage
+Tinkers' Construct
+Titanium
+Voluminous Energy

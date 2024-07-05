@@ -1,0 +1,78 @@
+ADG Omega 7 1.3.0 Changelog
+
+Updated:
+
+Forge to 43.3.13
+
+Ad Astra: Giselle Addon
+Additional Enchanted Miner
+Advanced Peripherals
+Apotheosis
+Aquaculture 2
+Ars Elemental
+Artifacts
+Botany Pots
+Building Gadgets
+Cognition
+CraftPresence
+Create Steam 'n' Rails
+Curios API
+Cyclic
+Cyclops Core
+Embeddium
+EMI
+Energized Power
+Entangled
+Environmental
+Evilcraft
+FancyMenu
+Gobber
+HammerLib
+Immersive Petroleum
+Industrial Foregoing
+Integrated Dynamics
+Integrated Terminals
+Integrated Tunnels
+Iron's Spells 'n Spellbooks
+Item Collectors
+KubeJS
+L_Ender's Cataclysm
+Lootr
+Macaw's Bridges
+Macaw's Bridges - Abnormals
+Macaw's Bridges - Modding Legacy
+Macaw's Bridges - Oh the Biomes You'll Go
+Macaw's Paths and Pavings
+Macaw's Trapdoors
+McJtyLib
+ModernFix
+Mystical Agradditions
+PacketFixer
+PneumaticCraft Repressurized
+Project Red Core
+Project Red Expansion
+Project Red Exploration
+Project Red Fabrication
+Project Red Illumination
+Project Red Integration
+Project Red Transmission
+Rechiseled
+RFTools Base
+RFTools Builder
+RFTools Control
+RFTools Dimensions
+RFTools Storage
+RFTools Utility
+Simple Magnets
+Sophisticated Core
+Super Factory Manager
+The Aether
+The Aether Redux
+The Bumblezone
+Tiny Redstone
+Titanium
+Traveler's Backpack
+U Team Core
+Wireless Chargers
+Wormhole (Portals)
+XNet

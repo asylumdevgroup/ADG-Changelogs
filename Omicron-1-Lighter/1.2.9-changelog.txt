@@ -1,0 +1,14 @@
+ADG Omicron 1 Lighter Edition 1.2.9 Changelog
+
+Updated:
+
+AE2 Unofficial Extended Life
+CensoredASM
+ConfigAnytime
+Controlling
+Had Enough Items
+Inventory Bogo Sorter
+JourneyMap
+ModularUI
+Universal Tweaks
+VintageFix

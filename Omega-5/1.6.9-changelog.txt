@@ -1,0 +1,17 @@
+ADG Omega 5 1.6.9 Changelog
+
+Updated:
+
+Additional Enchanted Miner
+Controlling
+Cosmetic Armor Reworked
+CraftPresence
+Embeddium
+Fusion
+JAOPCA
+JourneyMap
+Lootr
+Mahou Tsukai
+ModernFix
+SerializationIsBad
+Titanium

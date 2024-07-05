@@ -1,0 +1,23 @@
+ADG Omega 1 5.0.6 Changelog
+
+Updated:
+
+AE2 Fluid Crafting Rework
+AE2 Unofficial Extended Life
+CensoredASM
+ConfigAnytime
+Controlling
+Corail Tombstone
+Had Enough Items
+HammerLib
+Immersive Technology
+Inventory Bogo Sorter
+JAOPCA
+JourneyMap
+ModularUI
+PackagedAuto
+PackagedExCrafting
+Roughly Enough IDs
+The One Probe Community Edition
+Universal Tweaks
+VintageFix
